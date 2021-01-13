@@ -1,53 +1,168 @@
-<footer class="bg-black ph3 pv4 white">
-
-	<div class="mw7 center pt3">
-
-		<div class="measure-narrow center mb4">
-
-			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
-			<p class="f3 lh-title light-gray b tc mb2">Newsletter subscribe</p>
-			<p>Get awesome news from us in your inbox every two weeks. Be the first to learn about new products.</p>
-
-			{{ partial "newsletter-form" . }}
-
+<div class="row">
+		<div class="col">
+				<section id="s-cta" style="background: #ffffff;">
+						<div class="row" style="margin-top: 60px;">
+								<div class="col" style="font-family: 'DIN Alternate Bold';margin-left: 10px;">
+										<h1 style="font-size: 30px;">Lass uns Dich&nbsp;<span style="color: rgb(10,97,45);">grün</span>&nbsp;machen</h1>
+										<h1 style="font-size: 20px;">Erhalte ein unverbindliches Angebot von uns, oder lass uns ein paar Fragen beantworten.&nbsp;</h1>
+								</div>
+						</div>
+						<div class="row">
+								<div class="col" style="margin: 10px;">
+										<form class="leadform" method="post" action="https://corrently.de/api/stromdao/put">
+												<div class="modal fade" role="dialog" tabindex="-1" id="thanksLead-1">
+														<div class="modal-dialog" role="document">
+																<div class="modal-content">
+																		<div class="modal-header" style="background: #006c32;">
+																				<h4 class="modal-title" style="color: #ffffff;">Vielen Dank!</h4><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+																		</div>
+																		<div class="modal-body">
+																				<p style="font-family: Assistant, sans-serif;text-align: center;">Deine Anfrage ist bei uns eingegangen. <br>Bitte prüfe Deinen eMail Posteingang.</p>
+																				<div class="form-row">
+																						<div class="col">
+																								<p>Arbeitspreis je kWh in ¢</p>
+																								<h1 id="modAP"></h1>
+																						</div>
+																						<div class="col">
+																								<p>Grundpreis je Monat in €</p>
+																								<h1 id="modGP"></h1>
+																						</div>
+																				</div>
+																				<p id="kwham" style="font-family: Assistant, sans-serif;">Entspricht bei&nbsp;<span id="modkwh" style="font-family: 'DIN Alternate Bold';">-</span>&nbsp;kWh pro Jahr maximal&nbsp;&nbsp;<span id="modeur" style="font-family: 'DIN Alternate Bold';">-</span>&nbsp;€ im Monat und wird durch den variablen GrünstromBonus gesenkt.</p>
+																		</div>
+																		<div class="modal-footer text-center"><a class="btn btn-success btn-lg border rounded-pill angebotlink" role="button" href="/service/angebot-strom.html">Angebot annehmen<br></a></div>
+																</div>
+														</div>
+												</div>
+												<p>Deine Kontaktdaten</p>
+												<div class="form-group form-inline col-12"><label class="sr-only" for="emailInput">Deine Email</label><input class="form-control col-11" type="email" id="emailInput" name="email" autocomplete="on" inputmode="email" required="" placeholder="Deine eMail" style="margin-bottom: 20px;border-style: solid;"></div>
+												<div class="form-group form-inline col-12"><label class="sr-only" for="inputfirst_name">Dein Vorname</label><input class="form-control form-control mb-2 mr-sm-2" type="text" id="inputfirst_name" name="first_name" placeholder="Vorname"><label class="sr-only" for="inputLast_name">Dein Nachname</label><input class="form-control form-control mb-2 mr-sm-2" type="text" id="inputLast_name" name="last_name" placeholder="Nachname"></div>
+												<div class="form-group form-inline col-12"><label class="sr-only" for="zipcode">Deine Postleitzahl</label><input class="form-control form-control mb-2 mr-sm-2" type="text" id="zipcode" name="zipcode" placeholder="PLZ" required="" minlength="5" maxlength="5"><input class="form-control form-control mb-2 mr-sm-2" type="text" id="Ort" placeholder="Ort wird automatisch ergänzt" readonly="" disabled=""></div>
+												<p>Personen im Haushalt</p>
+												<div class="form-row">
+														<div class="col-6 col-sm-6 col-md-6 col-lg-3 col-xl-3">
+																<div class="form-check text-left"><input class="form-check-input psel" type="radio" id="pers-1" name="personen" value="1400"><label class="form-check-label text-center text-muted" for="formCheck-9">&nbsp;<i class="fa fa-user"></i>&nbsp;<br>1 Person</label></div>
+														</div>
+														<div class="col-6 col-sm-6 col-md-6 col-lg-3 col-xl-3">
+																<div class="form-check text-left"><input class="form-check-input psel" type="radio" id="pers-2" name="personen" value="2100"><label class="form-check-label text-center text-muted" for="formCheck-9">&nbsp;<i class="fa fa-user"></i><i class="fa fa-user"></i>&nbsp;<br>2 Personen<br></label></div>
+														</div>
+														<div class="col-6 col-sm-6 col-md-6 col-lg-3 col-xl-3">
+																<div class="form-check"><input class="form-check-input psel" type="radio" id="pers-3" name="personen" value="3100"><label class="form-check-label text-center text-muted" for="formCheck-9">&nbsp;<i class="fa fa-user"></i><i class="fa fa-user"></i><i class="fa fa-user"></i>&nbsp;<br>3 Personen<br></label></div>
+														</div>
+														<div class="col-6 col-sm-6 col-md-6 col-lg-3 col-xl-3">
+																<div class="form-check"><input class="form-check-input psel" type="radio" id="pers-4" name="personen" value="3600"><label class="form-check-label text-center text-muted" for="formCheck-9">&nbsp;<i class="fa fa-user"></i><i class="fa fa-user"></i><i class="fa fa-user"></i><i class="fa fa-user"></i>&nbsp;<br>4 Personen<br></label></div>
+														</div>
+												</div>
+												<p>oder Jahresstromverbrauch</p>
+												<div class="form-group"><label class="sr-only" for="kwhSel">Stromverbrauch im Jahr</label>
+														<div class="input-group">
+																<div class="input-group-prepend"></div><input class="form-control" type="text" id="kwhSel" name="kwha" placeholder="kWh pro Jahr" required="">
+																<div class="input-group-append"><span class="input-group-text">kWh</span></div>
+														</div>
+												</div>
+												<div class="form-row text-left" style="padding: 10px;">
+														<div class="col">
+																<div class="form-check" style="font-family: Assistant, sans-serif;"><input class="form-check-input" type="checkbox" id="formCheck-2" required=""><label class="form-check-label" for="formCheck-1" style="font-size: 14px;color: #7f7f7f;">Ich willige ein, dass die STROMDAO&nbsp;GmbH zum Zwecke der Prüfung meiner oben genannten Daten für das Corrently Ökosystem die angegebenen Daten speichern und verarbeiten, sowie mich unter den von mir genannten Kontaktdaten erreichen darf.<br>Die Einwilligung kann zu jeder Zeit widerrufen werden, es genügt hierfür eine eMail an <a href="mailto: kontakt@stromdao.com" style="color: #006c32;">kontakt@stromdao.com</a>.</label></div>
+														</div>
+												</div>
+												<div class="form-row">
+														<div class="col d-flex justify-content-center align-items-center align-content-center align-self-center"><button class="btn btn-light d-flex justify-content-xl-center align-items-xl-center action-button" id="kontakt-1" type="submit" style="font-family: 'DIN Alternate Bold';background-color: rgb(253,168,37);color: rgb(255,255,255);width: 180px;height: 60px;font-size: 20px;border-radius: 80px;margin-top: 25px;">Tarif&nbsp;<span style="color: rgb(12,108,50);">abrufen</span>&nbsp;</button></div>
+												</div><input class="form-control" type="hidden" name="referer" value="RM">
+										</form>
+								</div>
+								<div class="col" style="padding-bottom: 20px;">
+										<div class="row">
+												<div class="col">
+														<div role="tablist" id="accordion-2" style="margin-left: 10px;margin-right: 10px;">
+																<div class="card">
+																		<div class="card-header" role="tab">
+																				<h5 class="mb-0"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-2 .item-1" href="#accordion-2 .item-1" style="color: rgb(9,94,44);">Wie viel Strom verbrauche ich eigentlich?</a></h5>
+																		</div>
+																		<div class="collapse item-1" role="tabpanel" data-parent="#accordion-2">
+																				<div class="card-body">
+																						<p class="card-text" style="font-family: Assistant, sans-serif;">Der Stromverbrauch ist durch die Anzahl an in Haus und Wohnung lebenden Personen bedingt:</p>
+																						<ul style="font-family: 'Assistant';">
+																								<li>1-Personen-Haushalt: 1200 kWh (ab 29,90€ mtl.)</li>
+																								<li>2-Personen-Haushalt:&nbsp; 2100 kWh&nbsp;(ab 39,90€ mtl.)</li>
+																								<li>3-Personen-Haushalt: 3000 kWh&nbsp;(ab 44,90€ mtl.)</li>
+																								<li>4-Personen-Haushalt: 3600 kWh&nbsp;(ab 49,90€ mtl.)</li>
+																						</ul>
+																						<p class="card-text" style="font-family: Assistant, sans-serif;">Der Abschlagspreis setzt sich aus einer Grundgebühr und einem ortsunterschiedlichen Arbeitspreis pro kWh zusammen,</p>
+																				</div>
+																		</div>
+																</div>
+																<div class="card" style="margin-top: 20px;">
+																		<div class="card-header" role="tab">
+																				<h5 class="mb-0"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-2 .item-2" href="#accordion-2 .item-2" style="color: rgb(9,94,44);">Wie funktioniert das mit dem GrünstromIndex und GrünstromBonus?</a></h5>
+																		</div>
+																		<div class="collapse item-2" role="tabpanel" data-parent="#accordion-2">
+																				<div class="card-body">
+																						<p class="card-text" style="font-size: 16px;font-family: Assistant, sans-serif;">Mit Beginn der Belieferung durch Corrently bekommst du Zugriff auf Dein persönliches Stromkonto – dieses ist zentraler Punkt Deines Stromtarifs.<br><br>Ein Teil hiervon ist der GrünstromIndex: Du bekommst hier angezeigt, wann bei Dir vor Ort wieviel Prozent des Strommixes wirklich aus grünen Energiequellen kommt. Das hängt direkt mit dem GrünstromBonus zusammen, denn je mehr Grünstrom Du nutzt desto höher fällt dein GrünstromBonus aus.</p>
+																				</div>
+																		</div>
+																</div>
+																<div class="card" style="margin-top: 20px;">
+																		<div class="card-header" role="tab">
+																				<h5 class="mb-0"><a data-toggle="collapse" aria-expanded="false" aria-controls="accordion-2 .item-3" href="#accordion-2 .item-3" style="color: rgb(9,94,44);">Was macht Corrently besonders?</a></h5>
+																		</div>
+																		<div class="collapse item-3" role="tabpanel" data-parent="#accordion-2">
+																				<div class="card-body">
+																						<p class="card-text" style="font-family: Assistant, sans-serif;">Mit Corrently kannst Du aktiver Klimaschützer werden. Als Dankeschön für Dein bewusstes Verbrauchsverhalten schenken wir Dir Anteile an Photovoltaikanlagen, deren Einspeisung beziehst Du dann nicht mehr aus dem Netz und musst den Anteil somit auch nicht mehr zahlen.<br><br>Weiterhin sind wir der einzige Stromanbieter Deutschlands, der Dir klimaneutralen Ökostrom ab der Steckdose liefert – denn wir berechnen Deine durch die Netzverluste entstandenen CO2-Emissionen und kompensieren diese automatisch für Dich.&nbsp;</p>
+																				</div>
+																		</div>
+																</div>
+														</div>
+												</div>
+										</div>
+										<div class="row">
+												<div class="col text-center"><a class="text-center" href="#" style="/*margin-left: 228px;*/color: rgb(252,168,36);font-family: 'DIN Alternate Bold';padding: 0px;padding-bottom: 0px;margin-bottom: 0px;">Mehr FAQs</a></div>
+										</div>
+								</div>
+						</div>
+				</section>
 		</div>
-
-		<div class="flex-ns justify-between">
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Kaldi</h3>
-				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/products" class="link">Our products</a></li>
-					<li><a href="/values" class="link">About</a></li>
-					<li><a href="/post" class="link">Blog</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb1 primary">Find out more</h3>
-				<ul class="mb3">
-					<li><a href="/post/jamaica-blue/" class="link">Latest offers</a></li>
-					<li><a href="/contact" class="link">Schedule and appointment</a></li>
-				</ul>
-			</div>
-
-			<div>
-				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
-				<ul class="mhn2">
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
-					{{ partial "social-icon" (dict "link" "#" "svg" "icons-vimeo") }}
-				</ul>
-			</div>
-
+</div>
+</div>
+<div class="footer-basic">
+<div class="modal rubberBand animated" role="dialog" tabindex="-1" id="cookieModal" style="font-size: 10px;opacity: 1;min-width: 300;max-width: 500;min-height: 100;max-height: 200;">
+		<div class="modal-dialog modal-dialog-scrollable" role="document">
+				<div class="modal-content">
+						<div class="modal-header border rounded border-dark shadow">
+								<h4 class="modal-title" style="color: rgb(9,94,44);"><strong>Datenschutzhinweis</strong></h4><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+						</div>
+						<div class="modal-body">
+								<p style="color: #262626;font-size: 11px;">Wenn Sie diese Website besuchen, verwendet die STROMDAO GmbH Cookies und andere Technologien („Cookies“).<br><br>Zusätzlich zu den Cookies, die für die ordnungsgemäße Funktionsweise der Corrently Website erforderlich sind, und abhängig von Ihren Präferenzen, können die STROMDAO GmbH und ihre autorisierten Partner Cookies auch für die Analyse und Optimierung der Website-Funktionalität und zur Bereitstellung von Inhalten, die auf Ihre Interessen abgestimmt sind, verwenden.<br><br>Legen Sie Ihre Präferenzen mit den folgenden Buttons fest:<br><br>Standardeinstellung übernehmen. Mit diesem Button legen Sie fest, dass Sie die Einstellung für „Personalisierung“ einschließlich der „Funktionellen“ Cookies beibehalten, und die STROMDAO GmbH und den autorisierten Partnern von der STROMDAO GmbH gestatten, Cookie-Daten zur Erstellung von Statistiken zu erfassen und zu verwenden, Ihre Weberfahrung zu personalisieren und Ihnen Werbung auf der Basis Ihrer Interessen auf den Websites von Drittanbietern bereitzustellen.<br><br>Nur mit erforderlichen Cookies fortfahren. Mit diesem Button setzen Sie Ihre Cookie-Präferenzen auf „Erforderlich“ und verhindern damit, dass die STROMDAO GmbH und die Partner von der STROMDAO GmbH Cookie-Daten zur Erstellung von Statistiken erfassen und verwenden, Ihre Weberfahrung personalisieren und Ihnen Werbung auf der Basis Ihrer Interessen auf den Websites von Drittanbietern bereitstellen.<br><br>Cookie-Präferenzen. Mit diesem Button erhalten Sie weitere Informationen und können Ihre Cookie-Einstellungen anpassen.<br><br>Für eine reibungslose Navigation werden Ihre Cookie-Präferenzen überdie Corrently Web-Domänen hinweg geteilt, die auf der über den Button „Cookie-Präferenzen anzeigen“ angezeigten Seite Link aufgelistet sind, wobei Zweck und Nutzung der Cookies unverändert bleiben.<br></p>
+								<hr>
+						</div>
+						<div class="modal-footer"><button class="btn btn-dark tada animated" id="cookieModalConsent" type="button" data-dismiss="modal">zustimmen</button></div>
+				</div>
 		</div>
-	</div>
-
+</div>
+<footer>
+		<div class="social"><a class="border rounded-circle" data-bs-hover-animate="pulse" href="https://www.instagram.com/corrently.energy/"><i class="icon ion-social-instagram"></i></a><a data-bs-hover-animate="pulse" href="https://www.facebook.com/stromdaoltd/"><i class="icon ion-social-facebook"></i></a><a data-bs-hover-animate="pulse" href="https://github.com/energychain/"><i class="icon ion-social-github"></i></a><a data-bs-hover-animate="pulse" href="https://twitter.com/corrently"><i class="fa fa-twitter"></i></a><a data-bs-hover-animate="pulse" href="https://www.youtube.com/channel/UCQjaUqLgPaHjs-i4OrrTjHA?view_as=subscriber"><i class="icon ion-social-youtube"></i></a><a data-bs-hover-animate="pulse" href="https://www.linkedin.com/company/18037207/"><i class="icon ion-social-linkedin"></i></a><a data-bs-hover-animate="pulse" href="https://corrently.blog/"><i class="icon ion-social-rss"></i></a></div>
+		<ul class="list-inline" style="font-family: 'DIN Alternate Bold';">
+				<li class="list-inline-item"><a href="../impressum.html">Impressum</a></li>
+				<li class="list-inline-item"><a href="../datenschutz.html">Datenschutz</a></li>
+				<li class="list-inline-item"><a href="https://www.stromkonto.net" style="color: #4b4c4d;">Stromkonto</a></li>
+				<li class="list-inline-item"><a href="https://www.stromdao.de/" style="color: #4b4c4d;">Unternehmen</a></li>
+				<li class="list-inline-item"><a href="#">Nachhaltigkeit</a></li>
+				<li class="list-inline-item"><a href="https://corrently.blog/">Blog</a></li>
+		</ul>
+		<p class="copyright"><strong>STROM</strong>DAO&nbsp;GmbH © 2020</p>
 </footer>
-
-{{ partial "svg" . }}
-
-<script src="/app.js"></script>
+</div>
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="../assets/js/bs-init.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script src="../assets/js/ajaxForm.js"></script>
+<script src="../assets/js/getURLVars.js"></script>
+<script src="../assets/js/correntlyElements-min.js"></script>
+<script src="../assets/js/mwi.js"></script>
+<script src="../assets/js/lightbox.min.js"></script>
+<script src="../assets/js/swiper.jquery.min.js"></script>
+<script src="../assets/js/Simple-Slider.js"></script>
+<script src="../assets/js/Corrently-Tarifrechner-Privat.js"></script>
+<script src="../assets/js/Faq-by-pomdre.js"></script>
+<script src="../assets/js/leadform.js"></script>
+<script src="../assets/js/Chart.bundle.min.js"></script>

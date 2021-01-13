@@ -1,6 +1,16 @@
-<a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-	<p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-	<p class="mb0">{{ .Description }}</p>
-	<p class="link b dib black mb0">Read more →</p>
+<div class="container aos-init aos-animate" data-aos="fade" style="background: #ffffff;">
+<div class="row">
+<div class="col" style="background: #fda824;min-width: 250px;min-height: 250px;padding-top: 0px;">
+<a href="{{ .RelPermalink }}">
+	<h1 style="color: rgb(255,255,255);padding: 30px;font-size: 24px;">{{ .Title }}</h1>
+	<p class="text-muted" style="padding: 30px">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
 </a>
+</div>
+<div class="col" style="padding-left: 30px;">
+<p style="font-family: Assistant, sans-serif;">
+{{ .Description }}
+</p>
+<a href="{{ .RelPermalink }}" class="btn btn-primary btn-sm" style="font-family: 'DIN Alternate Bold';background-color: rgb(253,168,37);color: rgb(255,255,255);font-size: 20px;border-radius: 80px;">weiter lesen...</a>
+</div>
+</div>
+</div>

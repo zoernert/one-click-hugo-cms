@@ -1,18 +1,20 @@
 {{ if gt .Paginator.TotalPages 1 }}
- 
-<nav class="cf pa3">
+
+<div class="container aos-init aos-animate" data-aos="fade" style="background: #ffffff; height:20px">
+  <span class="float-left">
     {{ if .Paginator.HasNext }}
-    <a class="fl dib link dim black f6 f5-ns b pa2" title="Next Page" href="{{ .Paginator.Next.URL }}">
-        &larr; Previous
+    <a class="btn btn-sm btn-dark" title="Zurück" href="{{ .Paginator.Next.URL }}">
+        &larr; Zurück
     </a>
     {{ end }}
-    <div class="pagination">
-        {{ if .Paginator.HasPrev }}
-        <a class="fl dib link dim black f6 f5-ns b pa2" title="Previous Page" href="{{ .Paginator.Prev.URL }}">
-            Next &rarr;
+  </span>
+  <span class="float-right">
+    {{ if .Paginator.HasPrev }}
+        <a class="btn btn-sm btn-dark" title="Vor" href="{{ .Paginator.Prev.URL }}">
+            Vor &rarr;
         </a>
         {{ end }}
-    </div>
-</nav>
- 
+  </span>
+</div>
+
 {{ end }}

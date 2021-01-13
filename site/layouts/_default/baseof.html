@@ -1,12 +1,57 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
-  <body class="sans-serif">
-
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
-
+<body style="background-color: rgb(9,94,44);">
+  <nav class="navbar navbar-light navbar-expand-md shadow-lg navigation-clean-button" style="background-color: #ffffff;z-index:2;">
+      <div class="container-fluid"><a class="navbar-brand" href="#"></a><a href="../home.html" target="_blank"><img id="logo" src="https://corrently.de/assets/img/Logos%20Corrently/Logo%20Non-Stock%20Design_Corrently%201000.png" style="width: 150px;text-align: left;margin: 0px;"></a><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+          <div class="collapse navbar-collapse" id="navcol-1">
+              <ul class="nav navbar-nav mr-auto" id="Nav-isolated">
+                  <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" id="oekostrom" href="#" style="font-family: 'DIN Alternate Bold';">Ökostrom&nbsp;</a>
+                      <div class="dropdown-menu" style="font-size: 14px;"><a class="dropdown-item" href="../oekostrom/privat.html" style="font-family: 'DIN Alternate Bold';">Privatkunden</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../oekostrom/gewerbe.html" style="font-family: 'DIN Alternate Bold';">Gewerbekunden</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../oekostrom/auto.html" style="font-family: 'DIN Alternate Bold';">Autostrom</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../oekostrom/waerme.html" style="font-size: 14px;font-family: 'DIN Alternate Bold';">Wärmestrom</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../oekostrom/erzeugung.html" style="font-size: 14px;font-family: 'DIN Alternate Bold';">Unsere Erzeugungsanlagen</a>
+                      </div>
+                  </li>
+                  <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" id="gse" href="#" style="font-family: 'DIN Alternate Bold';">GrünstromErlebnis</a>
+                      <div class="dropdown-menu" style="font-size: 14px;"><a class="dropdown-item" href="../gruenstromerlebnis/casa-corrently.html" style="font-family: 'DIN Alternate Bold';">Casa Corrently</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../gruenstromerlebnis/gruenstromindex.html" style="font-family: 'DIN Alternate Bold';">GrünstromIndex</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../gruenstromerlebnis/gruenstrombonus.html" style="font-family: 'DIN Alternate Bold';">GrünstromBonus</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../gruenstromerlebnis/energychain.html" style="font-family: 'DIN Alternate Bold';">EnergyChain</a>
+                      </div>
+                  </li>
+                  <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" id="bts" href="#" style="font-family: 'DIN Alternate Bold';">Vision</a>
+                      <div class="dropdown-menu" style="font-size: 14px;"><a class="dropdown-item" href="../vision/regional.html" style="font-family: 'DIN Alternate Bold';">Regionalität</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../vision/transparent.html" style="font-family: 'DIN Alternate Bold';">Transparenz</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../vision/nachhaltig.html" style="font-family: 'DIN Alternate Bold';">Nachhaltigkeit</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../vision/digital.html" style="font-family: 'DIN Alternate Bold';">Digitalisierung</a>
+                      </div>
+                  </li>
+                  <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" id="bts-1" href="#" style="font-family: 'DIN Alternate Bold';">Über uns</a>
+                      <div class="dropdown-menu" style="font-size: 14px;"><a class="dropdown-item" href="../ueber-uns/team.html" style="font-family: 'DIN Alternate Bold';">Team</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../ueber-uns/oekosystem.html" style="font-family: 'DIN Alternate Bold';">Unser Ökosystem</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../ueber-uns/medien.html" style="font-family: 'DIN Alternate Bold';">Aus den Medien</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" style="font-family: 'DIN Alternate Bold';" href="http://squad.stromdao.de/nextcloud/index.php/s/kSpyoLQABSXAZ2M">Downloads</a>
+                      </div>
+                  </li>
+                  <li class="nav-item dropdown"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" id="oekostrom-1" href="#" style="font-family: 'DIN Alternate Bold';">Service</a>
+                      <div class="dropdown-menu" style="font-size: 14px;"><a class="dropdown-item" href="https://www.stromkonto.net/" style="font-size: 14px;font-family: 'DIN Alternate Bold';color: rgb(33,37,41);">Stromkonto</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../service/umzug.html" style="font-size: 14px;font-family: 'DIN Alternate Bold';color: rgb(33,37,41);">Umzug</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" style="font-size: 14px;font-family: 'DIN Alternate Bold';color: rgb(33,37,41);" href="../service/zaehlerstand.html">Zählerstand erfassen</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" style="font-size: 14px;font-family: 'DIN Alternate Bold';color: rgb(33,37,41);" href="e-mobility.html">CO2-Kompensation</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" style="font-size: 14px;font-family: 'DIN Alternate Bold';color: rgb(33,37,41);" href="../service/meet.html">Meet</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" style="font-size: 14px;font-family: 'DIN Alternate Bold';color: rgb(33,37,41);" href="../service/klimawald.html">Klimawald</a>
+                          <div class="dropdown-divider"></div><a class="dropdown-item" href="../service/faq.html" style="font-size: 14px;font-family: 'DIN Alternate Bold';color: rgb(33,37,41);">FAQ</a>
+                      </div>
+                  </li>
+              </ul><span class="navbar-text actions"> <a class="btn btn-light action-button" role="button" id="kontakt" href="../kontakt.html" style="font-family: 'DIN Alternate Bold';background-color: rgb(253,168,37);">Kontakt</a></span>
+          </div>
+      </div>
+  </nav>
+  <div style="/*min-height: 10%;*/width: 100%;height: 35px;background: #2b834a;"></div>
     {{ block "main" . }}{{ end }}
-
+  <div class="container" style="background-color: #ffffff;margin-top: 25px;margin-bottom: 25px;box-shadow: 0px 0px 20px 20px rgba(0,0,0,0.18);">
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
     {{ $script := .Site.Data.webpack.main }}
