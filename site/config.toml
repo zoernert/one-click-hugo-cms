@@ -1,4 +1,4 @@
-baseurl = "https://corrently.de/"
+baseurl = "https://corrently.de"
 languageCode = "de-de"
 languageLang = "de"
 title = "Corrently Blog"
