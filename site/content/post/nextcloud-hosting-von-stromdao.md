@@ -23,11 +23,13 @@ NextCloud basierte Collaboration mit Online Office Anbindung. Betrieben in einem
 
 Wer Nextcloud einfach nur einmal testen möchte, dem können wir auf unserem eignen Server einen persönlichen Zugang kostenlos einreichen. Hierzu einfach über das [Kontaktformular](https://www.stromdao.de/kontakt) eine Anfrage stellen.
 
-*** Unser Angebot
+*** Unser Angebot *** 
 
 <HTML>
 <button class="btn btn-primary chkout" type="button" style="background: #fda824;margin-top: 25px;"><i class="fa fa-shopping-cart"></i> NextCorrently 100GB - 9,90€/Monat </button>
 <script src="https://js.stripe.com/v3/"></script>
+<script>
+function inject() {
 $(document).ready(function() {
    $('.chkout').click(function() {    
      var stripe = Stripe('pk_live_rWnhwGfKnwm2aMYyQ50SbZrl');    
@@ -42,4 +44,12 @@ $(document).ready(function() {
     });         
 });
 });
+}
+window.injectI = setInterval(function() {
+   if(typeof $ !== 'undefined') {
+       clearInterval(window.injectI);
+       inject();       
+   }
+},500);
+</script>
 </HTML>
