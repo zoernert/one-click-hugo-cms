@@ -26,30 +26,20 @@ Wer Nextcloud einfach nur einmal testen möchte, dem können wir auf unserem eig
 *** Unser Angebot *** 
 
 <HTML>
-<button class="btn btn-primary chkout" type="button" style="background: #fda824;margin-top: 25px;"><i class="fa fa-shopping-cart"></i> NextCorrently 100GB - 9,90€/Monat </button>
 <script src="https://js.stripe.com/v3/"></script>
 <script>
-function inject() {
-$(document).ready(function() {
-   $('.chkout').click(function() {    
-     var stripe = Stripe('pk_live_rWnhwGfKnwm2aMYyQ50SbZrl');    
+const chkout = function() {
+     var stripe = Stripe('pk_live_rWnhwGfKnwm2aMYyQ50SbZrl');
      stripe.redirectToCheckout({
-      items: [        
+      items: [
         {sku: 'prod_ImIVb0GHvfilNJ', quantity: 1}
       ],
       successUrl: 'https://corrently.de/service/stromkonto.html',
       cancelUrl: 'https://corrently.de/service/stromkonto.html',
       clientReferenceId: 'blog'
     }).then(function (result) {
-    });         
-});
-});
+    });
 }
-window.injectI = setInterval(function() {
-   if(typeof $ !== 'undefined') {
-       clearInterval(window.injectI);
-       inject();       
-   }
-},500);
 </script>
+<button class="btn btn-primary chkout" onclick="javascript:chkout();" type="button" style="background: #fda824;margin-top: 25px;"><i class="fa fa-shopping-cart"></i> NextCorrently 100GB - 9,90€/Monat </button>
 </HTML>
