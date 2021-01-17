@@ -23,7 +23,7 @@ NextCloud basierte Collaboration mit Online Office Anbindung. Betrieben in einem
 
 Wer Nextcloud einfach nur einmal testen möchte, dem können wir auf unserem eignen Server einen persönlichen Zugang kostenlos einreichen. Hierzu einfach über das [Kontaktformular](https://www.stromdao.de/kontakt) eine Anfrage stellen.
 
-*** Unser Angebot *** 
+***Unser Angebot*** 
 
 <HTML>
 <script src="https://js.stripe.com/v3/"></script>
