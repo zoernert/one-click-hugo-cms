@@ -23,7 +23,7 @@ NextCloud basierte Collaboration mit Online Office Anbindung. Betrieben in einem
 
 Wer Nextcloud einfach nur einmal testen möchte, dem können wir auf unserem eignen Server einen persönlichen Zugang kostenlos einreichen. Hierzu einfach über das [Kontaktformular](https://www.stromdao.de/kontakt) eine Anfrage stellen.
 
-*** Unser Angebot *** 
+***Unser Angebot*** 
 
 <HTML>
 <script src="https://js.stripe.com/v3/"></script>
@@ -32,7 +32,7 @@ const chkout = function() {
      var stripe = Stripe('pk_live_rWnhwGfKnwm2aMYyQ50SbZrl');
      stripe.redirectToCheckout({
       items: [
-        {sku: 'prod_ImIVb0GHvfilNJ', quantity: 1}
+        {sku: 'sku_ImJ8vzDJvyihfN', quantity: 1}
       ],
       successUrl: 'https://corrently.de/service/stromkonto.html',
       cancelUrl: 'https://corrently.de/service/stromkonto.html',
