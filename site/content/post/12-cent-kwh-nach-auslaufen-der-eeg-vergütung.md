@@ -1,18 +1,16 @@
 ---
 title: 12 Cent/kWh nach Auslaufen der EEG Vergütung
 date: 2019-09-18T22:18:55.567Z
-description: >-
-  Kommendes Jahr werden die ersten Erzeugungsanlagen aus der 20-jährigen
+description: Dieses Jahr werden die ersten Erzeugungsanlagen aus der 20-jährigen
   EEG-Vergütung laufen. Zeit sich Gedanken über den Fortbestand zu machen.
   Kostspieliger Umbau auf Eigenverbrauch ist da nur eine Lösung, die allerdings
   bei Windkraftanlagen ohnehin nur unter sehr bestimmten Umständen realisiert
   werden kann.
 image: /img/fakten_auslaufen_eeg.png
 ---
-
 ## Den Rückbau herbeireden...
 
-> _Anders als im 20-jährigen Förderzeitraum kann der Betreiber der Photovoltaikanlage in dem Fall nur den auf dem Strommarkt zu erzielenden Erlös einstreichen_. ([MVV Partner Blog](https://partner.mvv.de/blog/photovoltaikanlagen-ende-eeg-foerderung))
+> *Anders als im 20-jährigen Förderzeitraum kann der Betreiber der Photovoltaikanlage in dem Fall nur den auf dem Strommarkt zu erzielenden Erlös einstreichen*. ([MVV Partner Blog](https://partner.mvv.de/blog/photovoltaikanlagen-ende-eeg-foerderung))
 
 Es ist nicht sonderlich verwunderlich, dass gerade die mittelgroßen Versorger ein Folgegeschäft generieren wollen. Vor 20 Jahren hatte man auch schon versucht mit Netzentgelten und Gebühren die Pioniere der Energiewende zur Kasse zu bitten.
 
@@ -20,9 +18,7 @@ Versorger wie die Mannheimer MVV haben in den letzten Jahren selbst Angebote fü
 
 ## Der Energiewende die Nachhaltigkeit bewahren
 
-> _Alte Solarpanel enden in vielen Fällen in Ghana auf (oftmals illegalen Müllkippen). Für die arme Bevölkerung vor Ort ist der Solarschrott eine Einkunftsquelle. Sie versucht, an das Silber-Tellurid oder Indium heranzukommen, verbrennen dazu das Plastik der alten Solarzellen. Dabei entstehen giftige Dämpfe._
->
->  
+> *Alte Solarpanel enden in vielen Fällen in Ghana (auf oftmals illegalen Müllkippen). Für die arme Bevölkerung vor Ort ist der Solarschrott eine Einkunftsquelle. Sie versucht, an das Silber-Tellurid oder Indium heranzukommen, verbrennen dazu das Plastik der alten Solarzellen. Dabei entstehen giftige Dämpfe.*
 >
 > ( [Sciencefiles](https://sciencefiles.org/2019/09/03/solarenergie-umweltschadlich-ineffizient-sozial-ungerecht/) )
 
