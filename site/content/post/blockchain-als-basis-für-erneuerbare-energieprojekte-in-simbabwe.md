@@ -1,5 +1,5 @@
 ---
-title: Blockchain als Basis für Erneuerbare Energieprojekte in Simbabwe.
+title: Blockchain als Basis für Erneuerbare Energieprojekte in Simbabwe
 date: 2018-10-28T19:09:06.728Z
 description: EnergyFintec aus Deutschland als Chance in Zimbabwe
 image: /img/image_c112ef61-518d-416e-b6bc-0c1c90883ca620181028_190650.jpg
