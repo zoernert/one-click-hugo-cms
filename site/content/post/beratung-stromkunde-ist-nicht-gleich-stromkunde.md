@@ -1,9 +1,8 @@
 ---
-title: 'Beratung: Stromkunde ist nicht gleich Stromkunde'
+title: "Beratung: Stromkunde ist nicht gleich Stromkunde"
 date: 2020-06-14T01:21:05.871Z
-description: >-
-  Mehrmals am Tag beraten wir persönlich, per Mail, Chat oder telefonisch
-  Interessierte des Corrently Ökosystems. Wir sehen dies als unsere
+description: Mehrmals am Tag beraten wir persönlich, per Mail, Chat oder
+  telefonisch Interessierte des Corrently Ökosystems. Wir sehen dies als unsere
   Verantwortung, denn regionaler Ökostrom ist etwas anderes als von der Stange
   mal schnell ein Schnäppchen machen. Wobei, preislich zahlen unsere Kunden
   meist deutlich weniger als Vergleichsportale dies für den Wettbewerber
@@ -22,7 +21,7 @@ Als Faustformel kann man dabei sagen: Unmittelbare Nähe zwischen Erzeugung und 
 
 ## Kunden fragen
 
-Bislang hat sich bei uns noch kein Kunde beschwert, wenn wir ihn vor der Erstellung eines Angebotes kontaktiert haben. Im Gegenteil, die meisten Kunden sehen dies als ein besonderer Service an, den sie nicht erwartet haben.
+Bislang hat sich bei uns noch kein Kunde beschwert, wenn wir ihn vor der Erstellung eines Angebotes kontaktiert haben. Im Gegenteil, die meisten Kunden sehen dies als einen besonderen Service an, den sie nicht erwartet haben.
 
 Leider fehlt uns die Zeit, dass wir jeden Kunden kontaktieren können, aber für eingehende Fragen stehen wir immer zur Verfügung.
 
@@ -33,11 +32,11 @@ Im Ergebnis zeigt sich, dass in mehr als der Hälfte der Fälle nach einem Gespr
 Es wäre vermessen, wenn wir denken würden, dass wir bislang alle Fälle für Beratung bereits gesehen hätten. Fast täglich gibt es neue, historisch gewachsene Skurrilitäten der Energiewirtschaft, über die bestimmt einmal ein Buch geschrieben werden sollte.
 
 * **Wärmepumpe / E-Auto Wallbox am normalen Hausanschluss**\
-  Kundin wurde vor Jahren dazu geraten, da es keine HT/NT Tarife mehr gäbe alles über einen Anschluß (Zähler) laufen zu lassen. So wurde der zweite Zählerplatz demontiert (verbaut) und die Kundin zahlte bislang mehrere hundert Euro pro Jahr mehr, als sie müßte.
+  Kundin wurde vor Jahren dazu geraten, da es keine HT/NT Tarife mehr gäbe, alles über einen Anschluss (Zähler) laufen zu lassen. So wurde der zweite Zählerplatz demontiert (verbaut) und die Kundin zahlte bislang mehrere hundert Euro pro Jahr mehr, als sie müsste.
 * **Fehlende Netzintegration der Großverbraucher**\
   Wärmepumpen, elektrische Heizungen und andere Großverbraucher können heute gut "gemanaged" werden. D.h. die Zeiten des Stromverbrauchs können sich zum Beispiel am [GrünstromIndex](https://www.gruenstromindex.de/) orientieren und so netzdienlicher betrieben werden.
 * **Mehr Stromzähler als nötig**\
-  An vielen Orten in Deutschland gab es einphasige Stromanschlüsse. Werden dann Wohnungen zusammengelegt, dann kann es vorkommen, dass man plötzlich für drei Anschlüsse eine Grundgebühr zahlen muss, da jede Phase einen eigenen Stromzähler hat
+  An vielen Orten in Deutschland gab es einphasige Stromanschlüsse. Werden dann Wohnungen zusammengelegt, dann kann es vorkommen, dass man plötzlich für drei Anschlüsse eine Grundgebühr zahlen muss, da jede Phase einen eigenen Stromzähler hat.
 * **Teurer Zählerwechsel**\
   Ein intelligentes Messsystem kostet etwas mehr, jedoch bringt es Transparenz und man kann deutlich mehr [GrünstromBonus](https://www.corrently.de/transparenz/asp-products/corrently-gruenstrombonus/) erhalten. Das Problem: Häufig wird dem Kunden ein Zählertausch mit teureren Montagekosten empfohlen, die eigentlich nicht notwendig sind.
 * **Mehr Autarkie, ohne größere Anlage auf dem Dach**\
