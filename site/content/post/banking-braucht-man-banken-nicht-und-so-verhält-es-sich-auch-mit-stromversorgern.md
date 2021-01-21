@@ -2,13 +2,12 @@
 title: Banking braucht man - Banken nicht! Und so verhält es sich auch mit
   Stromversorgern...
 date: 2021-01-22T12:57:45.246Z
-description: "Heute vor 10 Jahren erschien das Bitcoin-Whitepaper. Ein
-  achtseitiges Papier, dessen Grundlagen es heute in den Mainstream geschafft
-  haben. Jeder redet über Kryptowährungen, den Bitcoin. Doch warum? Die Gründe
-  sind vielfältig, doch gerade auf institutioneller Ebene (also bei Banken,
-  Börsen und Versicherungen) ist es oftmals die Angst - die Angst vor der
-  Emanzipation ihrer bisherigen Kunden! Dasselbe vollzieht sich gerade im
-  Energiemarkt! "
+description: "Vor 13 Jahren erschien das Bitcoin-Whitepaper. Ein achtseitiges
+  Papier, dessen Grundlagen es heute in den Mainstream geschafft haben. Jeder
+  redet über Kryptowährungen, den Bitcoin. Doch warum? Die Gründe sind
+  vielfältig, doch gerade auf institutioneller Ebene (also bei Banken, Börsen
+  und Versicherungen) ist es oftmals die Angst - die Angst vor der Emanzipation
+  ihrer bisherigen Kunden! Dasselbe vollzieht sich gerade im Energiemarkt! "
 image: /img/disrupt_blog.jpg
 ---
 Warum gehen Sie zur Bank? Falls Sie nicht dort arbeiten ist der Grund so trivial wie aussagekräftig - Sie benötigen Geld. Entweder um im Supermarkt um die Ecke Bananen zu kaufen oder einen Kredit für einen Hausbau zu beantragen. Und wann waren Sie das letzte Mal bei Ihrem Stromversorger? Wahrscheinlich ist das schon eine Weile her, denn die einmalige Begleichung der Stromabrechnung am Ende des Jahres ist mehr lästige Pflichtübung als Vergnügen. 
