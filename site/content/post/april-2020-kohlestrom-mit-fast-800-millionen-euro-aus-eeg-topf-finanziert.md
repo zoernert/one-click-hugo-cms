@@ -1,10 +1,9 @@
 ---
-title: 'April 2020: Kohlestrom mit fast 800 Millionen Euro aus EEG Topf finanziert'
+title: "April 2020: Kohlestrom mit fast 800 Millionen Euro aus EEG Topf finanziert"
 date: 2020-06-01T00:43:30.379Z
-description: >-
-  Am Ende April 2020 sind  796.208.369,11  € zu wenige in der EEG-Kasse. Ein
-  satter Verlust, der letztendlich von den Stromkunden zu zahlen ist, den aber
-  vor allem die Betreiber von großen konventionellen Kraftwerken verursacht
+description: Ende April 2020 sind  796.208.369,11  € zu wenig in der EEG-Kasse.
+  Ein satter Verlust, der letztendlich von den Stromkunden zu zahlen ist, den
+  aber vor allem die Betreiber von großen konventionellen Kraftwerken verursacht
   haben.
 image: /img/brown-coal-282960_1280.jpg
 ---
