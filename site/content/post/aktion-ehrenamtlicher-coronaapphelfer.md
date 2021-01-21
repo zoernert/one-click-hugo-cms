@@ -1,23 +1,22 @@
 ---
-title: 'Aktion: Ehrenamtlicher #CoronaAppHelfer'
+title: "Aktion: Ehrenamtlicher #CoronaAppHelfer"
 date: 2020-06-19T10:56:07.184Z
-description: >-
-  Nun ist sie da, die deutsche Corona-Warn-App. Entwickelt im Auftrag der
-  Bundesregierung, in Zusammenarbeit mit dem Robert Koch Institut und ja, sie
-  ist nach Einschätzung vieler Experten ein guter Wurf. Was fehlt sind
-  erkennbare Fürsprecher, daher der Aufruf: Mach Dich erkennbar als
-  ehrenamtlicher Corona-Warn-App-Helfer #CoronaAppHelfer
+description: "Nun ist sie da, die deutsche Corona-Warn-App. Entwickelt im
+  Auftrag der Bundesregierung, in Zusammenarbeit mit dem Robert Koch Institut
+  und ja, sie ist nach Einschätzung vieler Experten ein guter Wurf. Was fehlt,
+  sind erkennbare Fürsprecher, daher der Aufruf: Mach Dich erkennbar als
+  ehrenamtlicher Corona-Warn-App-Helfer #CoronaAppHelfer"
 image: /img/tz_corona_warn_app.jpg
 ---
 ## Installation und Sicherheit
 
 Es werden keine Standortdaten verraten oder gespeichert, Smartphones kommunizieren anonym, erkennen aber trotzdem, wer in der Nähe ist und bewerten so das Risiko und die Installation ist eigentlich ganz einfach, - eigentlich.
 
-In der Praxis gibt es aber dann doch einige Hürden. Das beginnt mit dem notwendigen Datenvolumen um die App aus dem App Store laden zu können, über die zwingende Standortfreigabe bei Android Geräten, bis hin zur passenden Software, die auf dem Gerät installiert sein muss. Wer keine Updates fährt, dem kann es passieren, dass die App nicht, oder nur teilweise funktioniert.
+In der Praxis gibt es aber dann doch einige Hürden. Das beginnt mit dem notwendigen Datenvolumen um die App aus dem App Store laden zu können, über die zwingende Standortfreigabe bei Android Geräten, bis hin zur passenden Software, die auf dem Gerät installiert sein muss. Wer keine Updates fährt, dem kann es passieren, dass die App nicht, oder nur teilweise funktioniert.
 
 ## Wie helfen ehrenamtliche #CoronaAppHelfer?
 
-Es ist also nicht ganz so trivial mit der Einrichtung und Betrieb der Corona-Warn-App, aber das ist bei jeder App mehr oder weniger der Fall. Da die App in Zusammenarbeit mit anderen Schutzmaßnahmen aber intelligentes Mittel zum Schutz vor Ansteckung sein kann ,hatten einige findige Nerd´s die Idee des Corona-App -Helfers, die **kostenlos Menschen bei Installation und Betrieb der Corona App unterstützen**, wenn diese Schwierigkeiten haben. Sie helfen weniger Computer affinen Menschen ihre Softwareversionen auf den neuesten Stand zu bringen, und überprüfen alle für die App notwendigen Einstellungen. Selbstverständlich darf man die Helfer auch zu den eigenen Bedenken fragen. Das geht persönlich oder telefonisch.
+Es ist also nicht ganz so trivial mit der Einrichtung und Betrieb der Corona-Warn-App, aber das ist bei jeder App mehr oder weniger der Fall. Da die App in Zusammenarbeit mit anderen Schutzmaßnahmen aber intelligentes Mittel zum Schutz vor Ansteckung sein kann, hatten einige findige Nerds die Idee des Corona-App-Helfers, die **kostenlos Menschen bei Installation und Betrieb der Corona App unterstützen**, wenn diese Schwierigkeiten haben. Sie helfen weniger Computer affinen Menschen ihre Softwareversionen auf den neuesten Stand zu bringen, und überprüfen alle für die App notwendigen Einstellungen. Selbstverständlich darf man die Helfer auch zu den eigenen Bedenken fragen. Das geht persönlich oder telefonisch.
 
 ## Was bringt die App?
 
