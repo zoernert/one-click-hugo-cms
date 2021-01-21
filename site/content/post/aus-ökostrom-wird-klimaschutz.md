@@ -1,12 +1,11 @@
 ---
 title: Aus Ökostrom wird Klimaschutz
-date: 2019-07-09T09:45:44.333Z
-description: >-
-  Gerade die Verstromung von Braunkohle verschlechtert die klimaschädliche
-  CO2-Bilanz von Deutschland signifikant. Obwohl die Ökostromtarife bei den
-  Verbrauchern eine wachsende Beliebtheit erfahren und die meisten E-Mobile an
-  Ökostrom-Ladesäulen geladen werden, gehen die Werte nur gering zurück. Warum?
-  Ökostrom ist eben kein Grünstrom...
+date: 2021-01-21T12:49:55.986Z
+description: Gerade die Verstromung von Braunkohle verschlechtert die
+  klimaschädliche CO2-Bilanz von Deutschland signifikant. Obwohl Ökostromtarife
+  bei den Verbrauchern eine wachsende Beliebtheit erfahren und die meisten
+  E-Mobile an Ökostrom-Ladesäulen geladen werden, gehen die CO2-Emissionswerte
+  nur gering zurück. Warum? Ökostrom ist eben kein Grünstrom...
 image: /img/pollution-2575166_1280.jpg
 ---
 ## Stromsee - die graue Brühe
@@ -25,10 +24,10 @@ Das [Europäische Verbundnetz](https://www.entsoe.eu/) ist für die Versorgungss
 
 ## Mehr Grünstrom für das Klima
 
-Was die **STROM**DAO mit [Corrently](https://www.corrently.de/) macht, ist den Stromsee etwas aufzulösen, indem wir die Zuläufe und Abläufe direkt mit einem "virtuellen" Schlauch verbinden. Dieser Schlauch ist der [GrünstromIndex](https://www.gruenstromindex.de/), wo man auch direkt [die aktuellen Schlauchverbindungen](https://gruenstromindex.de/dispatches.html) sehen kann. Selbstverständlich bleibt bei den Corrently Tarifen das Grundprinzip erhalten, dass wir immer die gesamte Energiemenge als sauberen Ökostrom in den Stromsee einspeisen, die unsere Kunden zum selben Zeitpunkt entnehmen. 
+Was **STROM**DAO mit [Corrently](https://www.corrently.de/) macht, ist den Stromsee etwas aufzulösen, indem wir die Zuläufe und Abläufe direkt mit einem "virtuellen" Schlauch verbinden. Dieser Schlauch ist der [GrünstromIndex](https://www.gruenstromindex.de/), wo man auch direkt [die aktuellen Schlauchverbindungen](https://gruenstromindex.de/dispatches.html) sehen kann. Selbstverständlich bleibt bei den Corrently Tarifen das Grundprinzip erhalten, dass wir immer die gesamte Energiemenge als sauberen Ökostrom in den Stromsee einspeisen, die unsere Kunden zum selben Zeitpunkt entnehmen. 
 
 Die Besonderheit liegt allerdings darin, dass der Kunde zusätzlich dafür sorgen kann, dass mehr direkte Verbindungen entstehen und somit trotz europäischer Vernetzung und einem unüberschaubar großem Stromsee jeder seinen kleinen, ganz eigenen Beitrag zum Klimaschutz leisten kann.
 
 ## Wie kann ich meinen Beitrag zum Klimaschutz leisten?
 
-Wenn Sie bei uns Stromkunde sind, dann leisten Sie diesen bereits. Ansonsten können Sie gerne einmal Ihre Alexa fragen: **_"Alexa, frage Corrently wann ist der Strom grün?"_**
+Wenn Sie bei uns Stromkunde sind, dann leisten Sie diesen bereits. Ansonsten können Sie gerne einmal Ihre Alexa fragen: ***"Alexa, frage Corrently wann ist der Strom grün?"***
