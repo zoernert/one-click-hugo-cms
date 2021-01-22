@@ -1,11 +1,10 @@
 ---
 title: Transparenz für ein Stromprodukt neu denken
 date: 2020-08-16T21:12:53.358Z
-description: >-
-  Strom für private Haushalte ist weit mehr als Gründgebühr und Arbeitspreis.
-  Eine echte Transparenz muss entlang der gesamten Wertschöpfungskette umgesetzt
-  werden, vom Bau der Erzeugungsanlagen bis zur Nutzung der elektrischen
-  Energie. 
+description: "Strom für private Haushalte ist weit mehr als Grundgebühr und
+  Arbeitspreis. Eine echte Transparenz muss entlang der gesamten
+  Wertschöpfungskette umgesetzt werden, vom Bau der Erzeugungsanlagen bis zur
+  Nutzung der elektrischen Energie. "
 image: /img/ball-407081_640.jpg
 ---
 Der häufigste Grund für Scheintransparenz sind nicht einmal die Stromtarife selbst, sondern die fehlenden Einblicke, was mit dem bezahlten Geld eigentlich passiert. Bei der **STROM**DAO kommt es daher häufiger zu längeren Diskussionen.
