@@ -1,5 +1,5 @@
 ---
-title: Energiewende Erfolgreich! Kohlelobby bekommt es mit der Angst zu tun.
+title: Energiewende erfolgreich! Kohlelobby bekommt es mit der Angst zu tun.
 date: 2021-01-18T13:15:43.413Z
 description: Die Angst geht um bei den Kohleimporteuren in Deutschland. Im
   Rahmen einer Pressekonferenz legt der Verein der Kohlenimporteure (VDKi) seine
