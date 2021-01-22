@@ -1,10 +1,9 @@
 ---
-title: 'Stromanbieter Werbung = Gesellschaftlich relevant '
+title: "Stromanbieter Werbung = gesellschaftlich relevant "
 date: 2020-05-20T22:08:01.476Z
-description: >-
-  Bei Facebook wurde gerade nach erneuter Überprüfung unser Werbebanner
-  abgelehnt. Wir freuen uns, denn die Begründung zeigt, dass die Wahl des
-  Stromanbieters doch wichtig ist :)
+description: Bei Facebook wurde gerade nach erneuter Überprüfung unser
+  Werbebanner abgelehnt. Wir freuen uns, denn die Begründung zeigt, dass die
+  Wahl des Stromanbieters doch wichtig ist :)
 image: /img/banner.png
 ---
 > Die Anzeige kann nicht geschaltet werden: Anzeige bearbeiten oder Identität bestätigen
