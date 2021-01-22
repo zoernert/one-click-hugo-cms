@@ -1,8 +1,8 @@
 ---
-title: Corrently - der Stromtarif der dir DEIN Kraftwerk baut!
+title: Corrently - der Stromtarif, der dir DEIN Kraftwerk baut!
 date: 2018-11-23T15:21:55.251Z
 description: >-
-  Corrently ist der erste Stromtarif der zwei Welten verbindet! Bisher sind der
+  Corrently ist der erste Stromtarif, der zwei Welten verbindet! Bisher sind der
   Bezug von Strom in Privathaushalten und das Investieren in Windenergie- oder
   Solarkraftwerke durch Bürgerenergiegesellschaften zwei völlig getrennte
   Welten. Der Corrently Stromtarif verknüpft diese und ermöglicht es jedem
