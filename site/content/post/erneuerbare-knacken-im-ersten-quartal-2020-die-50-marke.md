@@ -8,9 +8,9 @@ description: >+
 
 image: /img/vergleich-regionaler-grünstrombezug-und-graustrombezug-prozent.png
 ---
-Eine Meldung des Statistischen Bundesamtes sorgte diese Woche für eine kleine Sensation. Im 1. Quartal 2020 lieferten die Erneuerbaren Energien 51,2% der insgesamt in Deutschland eingespeisten Strommenge meldeten die Statistiker aus Wiesbaden.
+Eine Meldung des Statistischen Bundesamtes sorgte diese Woche für eine kleine Sensation. Im 1. Quartal 2020 lieferten die Erneuerbaren Energien 51,2% der insgesamt in Deutschland eingespeisten Strommenge, meldeten die Statistiker aus Wiesbaden.
 
-Und weil Statistiker präzise Menschen sind teilen sie uns noch mit, dass den höchsten Anstieg mit +21,4% der Strom aus Windkraft verzeichnete, was vor allem auf ein sehr windreiches erstes Quartal zurückzuführen sei.
+Und weil Statistiker präzise Menschen sind, teilen sie uns noch mit, dass den höchsten Anstieg mit +21,4% der Strom aus Windkraft verzeichnete, was vor allem auf ein sehr windreiches erstes Quartal zurückzuführen sei.
 
 ## Windkraft ist größter Ökostromlieferant
 
@@ -28,6 +28,6 @@ Die **STROM**DAO GmbH wollte nach dieser interessanten Information wissen, wie s
 
 ![Absoluter Anteil von regionalem Ökostrom in Deutschland im ersten Quartal 2020](/img/vergleich-regionaler-grünstrombezug-und-graustrombezug-prozent_grau.jpg "Absoluter Anteil von regionalem Ökostrom in Deutschland im ersten Quartal 2020")
 
-## Regionale Grünstromerzeugung sichtbar für Alle
+## Regionale Grünstromerzeugung sichtbar für alle
 
-Mit dem GrünstromIndex stellt die Stromdao GmbH diese Daten als Vorhersage für alle Verbraucher auf seiner Corrently Website sichtbar zur Verfügung. Trotz des unterschiedlichen Ausbaues der Erneuerbaren Energien in Deutschland zeigt sich, dass Verbraucher fast 50 Prozent des Ökostroms aus regionalen Erzeugungsanlagen erhalten, mit kurzen Lieferstrecken unter 15 Kilometern. Mit dem Grünstromtarif Corrently können alle Verbraucher zum Kurzstreckenchampion werden und gezielt regionalen Grünstrom verbrauchen. Ab Mitte des Jahres können sich Betreiber von Erneuerbaren Energieanlagen außerdem bei Stromdao zur Direktvermarktung melden, für Anlagen die in den kommenden Jahren aus dem EEG-fallen. Stromdao bietet diesen Service für[ EE-Anlagen ab 1 Kilowatt-Peak](https://www.corrently.de/transparenz/anlagenregistrierung/) Leistung an.
+Mit dem [GrünstromIndex](https://gruenstromindex.de) stellt **STROM**DAO GmbH diese Daten als Vorhersage für alle Verbraucher auf seiner Corrently Website sichtbar zur Verfügung. Trotz des unterschiedlichen Ausbaus der Erneuerbaren Energien in Deutschland zeigt sich, dass Verbraucher fast 50 Prozent des Ökostroms aus regionalen Erzeugungsanlagen erhalten, mit kurzen Lieferstrecken unter 15 Kilometern. Mit dem Grünstromtarif [Corrently](https://corrently.de/home.html) können alle Verbraucher zum Kurzstreckenchampion werden und gezielt regionalen Grünstrom verbrauchen. Ab Mitte des Jahres können sich Betreiber von Erneuerbaren Energieanlagen außerdem bei **STROM**DAO zur Direktvermarktung melden, für Anlagen, die in den kommenden Jahren aus dem EEG fallen. **STROM**DAO bietet diesen Service für[ EE-Anlagen ab 1 Kilowatt-Peak](https://www.corrently.de/transparenz/anlagenregistrierung/) Leistung an.
