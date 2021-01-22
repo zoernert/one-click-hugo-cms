@@ -10,9 +10,9 @@ description: Über 10 Jahre ist es her, dass das erste Mal die Rollläden am
   bringen können.
 image: img/stromkonto_in_symcon_store.png
 ---
-Heute kam die Bestätigung, dass wir mit dem Stromkonto ([WebUI](https://www.stromkonto.net/)) im Module Store vertreten sind. Ein Stromkonto kann für jeden Stromanschluß, aber auch für Unteranschlüsse bis hin zur einzelnen Steckdose eingerichtet werden und protokolliert neben den Energiewirtschaftsdaten auch die CO2-Emission und Kompensation. 
+Heute kam die Bestätigung, dass wir mit dem Stromkonto ([WebUI](https://www.stromkonto.net/)) im Module Store vertreten sind. Ein Stromkonto kann für jeden Stromanschluss, aber auch für Unteranschlüsse bis hin zur einzelnen Steckdose eingerichtet werden und protokolliert neben den Energiewirtschaftsdaten auch die CO2-Emission und Kompensation. 
 
-[Das Modul ](https://github.com/energychain/IPS_Stromkonto/tree/main/STROMKONTO)für [IP Symcon](https://www.symcon.de/produkt/) nutzt die Daten von einem Stromkonto über die [v2.0 REST API](https://corrently.io/). Die native Implementierung des Stromkontos, welche die selbe Schnittstelle nutzt ist unter [stromkonto.net](https://www.stromkonto.net/) zu finden. Das Anlegen und die Nutzung eines Stromkontos ist kostenlos.
+[Das Modul ](https://github.com/energychain/IPS_Stromkonto/tree/main/STROMKONTO)für [IP Symcon](https://www.symcon.de/produkt/) nutzt die Daten von einem Stromkonto über die [v2.0 REST API](https://corrently.io/). Die native Implementierung des Stromkontos, welche dieselbe Schnittstelle nutzt ist unter [stromkonto.net](https://www.stromkonto.net/) zu finden. Das Anlegen und die Nutzung eines Stromkontos ist kostenlos.
 
 Verknüpfung von Stromkonto mit Symcon:
 
