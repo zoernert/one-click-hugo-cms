@@ -1,5 +1,5 @@
 ---
-title: Rebekka und Kai haben geheiratet! Alles Gute von der STROMDAO
+title: Rebekka und Kai haben geheiratet! Alles Gute von STROMDAO
 date: 2019-09-09T08:00:00.000Z
 description: |-
   Und hier besiegeln diese Zwei
@@ -11,4 +11,4 @@ image: /img/ruku.png
 ---
 zu Eurem heutigen Ehrentag gratulieren ganz herzlich
 
-_Manfred, Frau Klein, Manu, Manuel, Johannes, Lyna und Thorsten_
+*Manfred, Frau Klein, Manu, Manuel, Johannes und Thorsten*
