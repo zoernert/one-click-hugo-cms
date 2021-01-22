@@ -1,13 +1,12 @@
 ---
-title: 'Hildegard M. - Angst vor Altersarmut '
+title: "Hildegard M. - Angst vor Altersarmut "
 date: 2018-11-23T15:28:23.789Z
-description: >-
-  Im Jahre 2005 hat sie sich für eine PV-Anlage entschieden, weil sie nachhaltig
-  und ökologisch in die Zukunft schauen wollte. Heute macht sich die 62-Jährige
-  Sorgen um Altersarmut. 
+description: "Im Jahre 2005 hat sie sich für eine PV-Anlage entschieden, weil
+  sie nachhaltig und ökologisch in die Zukunft schauen wollte. Heute macht sich
+  die 62-Jährige Sorgen um Altersarmut. "
 image: /img/hildegard.jpg
 ---
-Sie war damals eine der ersten  in ihrer Nachbarschaft, die sich eine Solar-Anlage auf das Dach montierte. Die beiden Kinder waren gerade in der Pubertät und es war absehbar, dass diese irgendwann ausziehen werden. Es war die Zeit, als man Nachhaltigkeit noch nicht in jeder zweiten Medienmeldung lesen musste, und Energiewende noch nicht so das große Politikum war. Eine sorglose Entscheidung war es damals, erinnert sich Hildegard heute.
+Sie war damals eine der ersten in ihrer Nachbarschaft, die sich eine Solar-Anlage auf das Dach montierte. Die beiden Kinder waren gerade in der Pubertät und es war absehbar, dass diese irgendwann ausziehen werden. Es war die Zeit, als man Nachhaltigkeit noch nicht in jeder zweiten Medienmeldung lesen musste, und Energiewende noch nicht so das große Politikum war. Eine sorglose Entscheidung war es damals, erinnert sich Hildegard heute.
 
 Die Kinder sind aus dem Haus. Jürgen, der Mann von Hildegard, wird in zwei Jahren in Rente gehen. Die Perspektive hat sich geändert und die Entscheidung für die Photovoltaikanlage wird zunehmend zum Problem.
 
@@ -19,4 +18,4 @@ Im Dezember 2025 werden diese Zahlungen eingestellt werden. Gerne würde sich di
 
 > "Wir wissen, dass wir etwas ändern müssen. Wir wissen, dass wir auf Eigenstromnutzung umstellen müssen. Ist dies allein die Lösung?" fragt Hildegard M. "Es sind ja noch 8 Jahre. In Sachen Nebenkosten ist dies aber bereits morgen."
 
-Es gibt viele Haushalte, die eine ähnliche Erfahrung gemacht haben wie Hildegard. Einst waren sie stolz ein Vorreiter im "Kleinen" zu sein. Heute fühlen sie sich alleine gelassen von der Politik und den Profis. Produkte am Markt, wie [Corrently](https://corrently.de/) lösen das Problem aus Sicht des Kunden und sind damit mehr als nur "billiger Strom".
+Es gibt viele Haushalte, die eine ähnliche Erfahrung gemacht haben wie Hildegard. Einst waren sie stolz ein Vorreiter im "Kleinen" zu sein. Heute fühlen sie sich alleine gelassen von der Politik und den Profis. Produkte am Markt, wie [Corrently](https://corrently.de/home.html) lösen das Problem aus Sicht des Kunden und sind damit mehr als nur "billiger Strom".
