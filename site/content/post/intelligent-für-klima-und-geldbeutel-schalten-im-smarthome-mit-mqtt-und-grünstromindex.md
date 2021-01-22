@@ -1,36 +1,34 @@
 ---
-title: >-
-  Intelligent für Klima und Geldbeutel schalten im SmartHome mit MQTT und
+title: Intelligent für Klima und Geldbeutel schalten im SmartHome mit MQTT und
   GrünstromIndex
 date: 2020-06-22T12:10:16.637Z
-description: >-
-  Wäre es nicht besser, den Strom immer dann zu verbrauchen, wenn viel Grünstrom
-  aus nahegelegener Erzeugung kommt? Mit Sicherheit, denn so hat man den meisten
-  Nutzen der Energiewende und schont das Klima. Das Corrently Ökosystem bietet
-  die richtigen Werkzeuge, um Geräte die notwendige Intelligenz beizubringen. In
-  diesem Beitrag wird die Nutzung von MQTT zur Einbindung des GrünstromIndex
-  vorgestellt, ein Protokoll, welches von EnergieManagementSystem über
-  SmartHome, Wärmepumpe, PV-Anlage bis zur Wallbox verbreitet ist. 
+description: "Wäre es nicht besser, den Strom immer dann zu verbrauchen, wenn
+  viel Grünstrom aus nahegelegener Erzeugung kommt? Mit Sicherheit, denn so hat
+  man den meisten Nutzen der Energiewende und schont das Klima. Das Corrently
+  Ökosystem bietet die richtigen Werkzeuge, um Geräte die notwendige Intelligenz
+  beizubringen. In diesem Beitrag wird die Nutzung von MQTT zur Einbindung des
+  GrünstromIndex vorgestellt, ein Protokoll, welches von EnergieManagementSystem
+  über SmartHome, Wärmepumpe, PV-Anlage bis zur Wallbox verbreitet ist. "
 image: /img/intelligent_schalten_mit_gsi.jpg
 ---
 ## Herausforderungen
 
-Es existieren eine Vielzahl von verschiedenen Systemen und Protokolle, die mit Energiedaten im heimischen Umfeld arbeiten. Eine Zusammenführung dieser Daten ist meist Aufgabe von einem EnergieManagementSystem (EMS) wie [OpenEMS](https://openems.io/), jedoch sind auch Produkte wie HomeManager, OpenHAB, Node-Red, Smappee, Alexa, Homematic im Prinzip ein EMS. 
+Es existieren eine Vielzahl von verschiedenen Systemen und Protokolle, die mit Energiedaten im heimischen Umfeld arbeiten. Eine Zusammenführung dieser Daten ist meist Aufgabe von einem EnergieManagementSystem (EMS) wie [OpenEMS](https://openems.io/), jedoch sind auch Produkte wie HomeManager, OpenHAB, Node-Red, Smappee, Alexa oder Homematic im Prinzip ein EMS. 
 
 Zum besseren Verständnis dieses Beitrags sollen unter EMS daher alle Systeme zusammengefasst werden, welche basierend auf Daten/Zuständen/Schalter eine Aktion ausführen können. Die meisten dieser Systeme erlauben eine Kommunikation mit anderen Geräten über das [MQTT Protokoll](https://de.wikipedia.org/wiki/MQTT) zum Nachrichtenaustausch. 
 
 ## Kommunikation via MQTT
 
-Am Beispiel eines einfachen Schalters, der via MQTT mit einem EMS kommuniziert, welche in der Lage ist eine Lampe ein- bzw. auszuschalten soll der Nachrichtenfluss der bei der Betätigung des Schalters entsteht aufgezeigt werden:
+Am Beispiel eines einfachen Schalters, der via MQTT mit einem EMS kommuniziert, welches in der Lage ist eine Lampe ein- bzw. auszuschalten, soll der Nachrichtenfluss der bei der Betätigung des Schalters entsteht, aufgezeigt werden:
 
-1. Schalter wird auf Position "EIN" gestellt.
+1. Schalter wird auf Position "EIN" gestellt
 2. Nachricht wird an EMS gesendet mit dem Inhalt "Schalter EIN" (=1) 
 3. EMS entscheidet, dass dies bedeutet eine Lampe soll eingeschaltet werden
 4. Nachricht wird von EMS and den Schaltaktor der Lampe gesendet mit dem  Inhalt "EIN" (=1)
 
 **Manuell** könnte man nun hergehen und den Schalter immer einschalten (=1), wenn der [GrünstromIndex](https://www.gruenstromindex.de/) einen hohen Wert hat. Sobald der Index einen geringen Wert hat, schalten wird der Schalter wieder ausgeschaltet (=0). Da es bei den Nachrichten (0 oder 1) um eine Maschinen zu Maschinen (M2M) Kommunikation handelt, kann man diesen Schritt auch **automatisieren**. 
 
-Benötigt wird ein _Schalter,_ der die Nachricht 0 oder 1 sendet, entsprechend dem Wert des GrünstromIndex.  Einen solchen Schalter gibt es als fertigen Programmcode mit dem OpenSource Projekt [GSI4MQTT](https://www.npmjs.com/package/gsi4mqtt). 
+Benötigt wird ein *Schalter,* der die Nachricht 0 oder 1 sendet, entsprechend dem Wert des GrünstromIndex.  Einen solchen Schalter gibt es als fertigen Programmcode mit dem OpenSource Projekt [GSI4MQTT](https://www.npmjs.com/package/gsi4mqtt). 
 
 ## GSI4MQTT als Grünstromschalter
 
