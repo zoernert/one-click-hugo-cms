@@ -1,16 +1,15 @@
 ---
 title: So viel zu den Zertifikaten...
 date: 2020-04-29T08:24:32.195Z
-description: >-
-  Nun haben wir uns erst vor kurzen über die Mentalität hinter einigen
-  Zertifikaten echauffiert...
+description: Nun haben wir uns erst vor kurzen über die Mentalität hinter
+  einigen Zertifikaten echauffiert...
 image: /img/cmbw-label.png
 ---
 ... da kommen wir dann doch mit einem eigenen [Label](https://cloud-mall-bw.de/services/) an. 
 
 Hintergrund: Wir durften letztes Jahr an einem Praxispiloten im Rahmen von Cloud Mall BW mitmachen. Das lief so gut, dass die Partner dahinter ein Qualitätssiegel für den Servicekatalog erstellt haben
 
-Im Katalog vereinen sich alle vertrauenswürdige, Cloud-basierte Services von Baden-Württemberg - und wir sind einer davon. Daher dürfen wir auch das Cloud Mall BW Qualitätslabel tragen und sind begeistert, dass nicht nur unser Praxispilot es in die Hallen des Landes geschafft hat, sondern, dass wir hier langfristig Teil eines Statements sein dürfen. Dieses präsentiert eine zukunftsfähige, zuverlässige Partnerschaft innerhalb verschiedenster Unternehmen in Baden-Württemberg, deren intraoperable Zusammenarbeit vor einigen Jahren noch kaum vorstellbar wäre.
+Im Katalog vereinen sich alle vertrauenswürdigen, Cloud-basierten Services von Baden-Württemberg - und wir sind einer davon. Daher dürfen wir auch das Cloud Mall BW Qualitätslabel tragen und sind begeistert, dass nicht nur unser Praxispilot es in die Hallen des Landes geschafft hat, sondern, dass wir hier langfristig Teil eines Statements sein dürfen. Dieses präsentiert eine zukunftsfähige, zuverlässige Partnerschaft innerhalb verschiedenster Unternehmen in Baden-Württemberg, deren intraoperable Zusammenarbeit vor einigen Jahren noch kaum vorstellbar wäre.
 
 > Für wen ist der Cloud Mall BW-Servicekatalog interessant?
 
