@@ -1,11 +1,10 @@
 ---
 title: Es geht voran.
 date: 2020-05-14T08:47:39.812Z
-description: >-
-  Da möchte man ja glatt vor Freude in die Luft springen: Die Landesregierung
-  Baden-Württemberg (man bedenke: "Wir können alles - außer Hochdeutsch.") hat
-  sich verpflichtet, dass auf Nicht-Wohngebäuden PV-Anlagen installiert werden
-  müssen. Leider erst ab 2022.
+description: 'Da möchte man ja glatt vor Freude in die Luft springen: Die
+  Landesregierung Baden-Württemberg (man bedenke: "Wir können alles - außer
+  Hochdeutsch.") hat sich verpflichtet, dass auf Nicht-Wohngebäuden PV-Anlagen
+  installiert werden müssen. Leider erst ab 2022.'
 image: /img/solar-energy-2157212_1920.jpg
 ---
 > Das ist innovativ und mutig. So wird Bauen modern und Klimaschutz zur Selbstverständlichkeit.
@@ -20,6 +19,6 @@ Nun für den Bereich Solar: Gut, dass, wenn auf Gebäuden ein "on-Top" kommt. Eg
 2. Warum nicht auch bei Bestandsbauten?
 3. Wie wird die Administration umgesetzt? 
 
-Wichtig ist, dass es mehr Erneuerbare gibt und diese dezentral installiert werden. Und zwar so, dass da, wo viel Bedarf ist, muss das Angebot aufgebaut werden. Dann kann dezentral mittels Smart Grid eine Region mit Erneuerbaren gedeckt werden. 
+Wichtig ist, dass es mehr Erneuerbare gibt und diese dezentral installiert werden. Und zwar so, dass da, wo viel Bedarf ist, das Angebot ausgebaut wird. Dann kann dezentral mittels Smart Grid eine Region mit Erneuerbaren gedeckt werden. 
 
 Dies bildet unser [GrünstromIndex](https://gruenstromindex.de/) ab: Zeigt er in Deiner Region gerade einen Wert unter 100 an, dann ist das Angebot zu gering für den Bedarf. Wenn immer viel grau ist, dann muss in Deiner Region noch ordentlich aufgebaut werden. Eine gute, transparente Ansage, die Du Deiner lokalen Politik weitergeben kannst. Wenn tagsüber die Balken eher grün sind, nachts aber grau, dann kann es zum Beispiel sein, dass viel PV bei Dir ist, aber wenig Wind und Wasser. Prüf Deinen Strommix doch einfach [hier](https://mix.stromhaltig.de/#).
