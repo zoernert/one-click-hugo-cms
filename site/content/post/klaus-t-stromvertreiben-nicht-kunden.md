@@ -1,9 +1,8 @@
 ---
 title: Klaus T. - Strom vertreiben nicht Kunden
 date: 2018-11-25T10:03:41.650Z
-description: >-
-  Seinen Stromkunden vertrauen Klaus T., wodurch er sich ein großes Netzwerk
-  aufbauen konnte und er letztendlich vor vier Jahren die Leitung des
+description: Seine Stromkunden vertrauen Klaus T., wodurch er sich ein großes
+  Netzwerk aufbauen konnte und er letztendlich vor vier Jahren die Leitung des
   Stromvertriebs der Stadtwerke übernommen hat. Die Rezession hat aber begonnen,
   da das Produkt "Strom" immer mehr dem Zweck dient Vergleichsportale glücklich
   zu machen, als die Probleme der Kunden zu adressieren.
@@ -21,4 +20,4 @@ Der kostenlose Verleih von E-Bikes, oder die Info-Veranstaltungen zur Energiewen
 
 Bei Kaffee und Keksen sitzt das Team von Klaus T. immer öfter im Besprechungsraum und überlegt, wie Sie Kunden besser ansprechen können. Was bietet man zum Beispiel dem [jungen Paar Melina & Jonas](/post/melina-jonas-f-nichts-darf-schiefgehen/) an,  die zwar etwas mit Wert geschaffen - dennoch finanzielle Sorgen haben. Oder wie kann man [Hildegard](/post/hildegard-m-angst-vor-altersarmut/) helfen, die ihre Ängste vor Altersarmut auch dem Stromprodukt zuschreibt. 
 
-Es gibt unzählige Beispiele, bei denen die Probleme bekannt sind, aber die Lösung mehr als nur einen Stromtarif erwartet. Sehr häufig ist das beste Ergebnis, wenn die Probleme von mehreren die Lösung vieler ist. Produkte am Markt, wie [Corrently](https://corrently.de/), lösen das Problem aus Sicht des Kunden und sind damit mehr als nur “billiger Strom”.
+Es gibt unzählige Beispiele, bei denen die Probleme bekannt sind, aber die Lösung mehr als nur einen Stromtarif erwartet. Sehr häufig ist das beste Ergebnis, wenn die Probleme von mehreren die Lösung vieler ist. Produkte am Markt, wie [Corrently](https://corrently.de/home.html), lösen das Problem aus Sicht des Kunden und sind damit mehr als nur “billiger Strom”.
