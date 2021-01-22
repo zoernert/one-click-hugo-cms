@@ -1,14 +1,13 @@
 ---
-title: 'Ziel: 100% regionaler Ökostrom zu jeder Zeit'
+title: "Ziel: 100% regionaler Ökostrom zu jeder Zeit"
 date: 2020-05-25T11:57:00.302Z
-description: >-
-  Corrently steht für regionalen Ökostrom in Verbindung mit Klimaschutz. Mit
-  unserem #GrünstromErlebnis können Kunden sicher sein, dass wir uns darum
-  kümmern, dass eine saubere Stromerzeugung aus der eigenen Region rund um die
-  Uhr vorhanden ist.
+description: "Corrently steht für regionalen Ökostrom in Verbindung mit
+  Klimaschutz. Mit unserem #GrünstromErlebnis können Kunden sicher sein, dass
+  wir uns darum kümmern, dass eine saubere Stromerzeugung aus der eigenen Region
+  rund um die Uhr vorhanden ist."
 image: /img/img_20200524_170426.jpg
 ---
-Häufig wird vergessen, dass viel stärker als die Erzeugung von Wind- oder Solarstrom die Nachfrage über den Tag verteilt schwankt. Auf diese Schwankungen müssen die Stromanbieter reagieren und ihre Erzeugung an den tatsächlichen Bedarf anpassen. Früher wurde dies vor allem durch die Menge der Brennstoffe realisiert, sobald die Nachfrage in der Nacht zurückgeht, wird weniger Kohle in die Brennkammer von Kraftwerke gegeben. 
+Häufig wird vergessen, dass viel stärker als die Erzeugung von Wind- oder Solarstrom die Nachfrage über den Tag verteilt schwankt. Auf diese Schwankungen müssen die Stromanbieter reagieren und ihre Erzeugung an den tatsächlichen Bedarf anpassen. Früher wurde dies vor allem durch die Menge der Brennstoffe realisiert, sobald die Nachfrage in der Nacht zurückging, wurde weniger Kohle in die Brennkammer von Kraftwerken gegeben. 
 
 Mittlerweile haben die Erneuerbaren die Aufgabe übernommen, die Nachfrage anzupassen. Man spricht von **bedarfsgeführter Stromerzeugung**, welche das zu Anfängen der Energiewende übliche Verfahren der **dargebotsgeführten Stromerzeugung** abgelöst hat. 
 
