@@ -5,11 +5,10 @@ description: Seit Beginn der Corona-Pandemie ist die Notwendigkeit für flexible
   Lösungen für verteilt arbeitende Teams konstant angestiegen. Das Nextcloud
   Hosting der STROMDAO erlaubt nicht nur den Austausch von Dokumenten, sondern
   hilft für wenige Cent pro Monat auch auf Distanz gut zusammenarbeiten. Zugang
-  zum Internet reichen aus, um sicher und verlässlich im Team
-  zusammenzuarbeiten.
+  zum Internet reicht aus, um sicher und verlässlich im Team zusammenzuarbeiten.
 image: img/corona-5124524_640.jpg
 ---
-NextCloud basierte Collaboration mit Online Office Anbindung. Betrieben in einem grünen Rechenzentrum in Deutschland.
+NextCloud basiert auf einer Collaboration mit Online Office Anbindung. Betrieben in einem grünen Rechenzentrum in Deutschland.
 
 **NextCorrently bietet...** 
 
