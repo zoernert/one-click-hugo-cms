@@ -1,10 +1,9 @@
 ---
-title: 'IWF: Fossile Energien wesentlich höher subventioniert als bisher angenommen'
+title: "IWF: Fossile Energien wesentlich höher subventioniert als bisher angenommen"
 date: 2020-05-25T22:46:18.879Z
-description: >-
-  Meist handelt es sich bei bei der Subvention von Kohlekraftwerken um eine
-  indirekte Subvention. Dies ist wesentlich intransparenter als die Förderung
-  von Regenerativer Energieerzeugung, wie wir diese in Deutschland in
+description: Meist handelt es sich bei bei der Subvention von Kohlekraftwerken
+  um eine indirekte Subvention. Dies ist wesentlich intransparenter als die
+  Förderung von Regenerativer Energieerzeugung, wie wir diese in Deutschland in
   Vergangenheit mit dem EEG hatten. Der internationale Währungsform hat nun eine
   Studie herausgegeben, die etwas mehr Transparenz schafft.
 image: /img/thermal-power-station-3895097_1280.jpg
@@ -19,4 +18,4 @@ Gerade in Zeiten einer weltweiten Pandemie, muss man auch die Frage stellen, wer
 
 ## Kosten für Gesundheitsschäden bei 2200 Milliarden Dollar
 
-Den größten Kostenblock, den der IWF identifizieren konnte sind die Kosten für das Gesundheitssystem, welches bei Erkrankungen in Folge der Emission von Feinstaub gerade bei alten Kraftwerken zusätzlich belastet wird.
+Den größten Kostenblock, den der IWF identifizieren konnte, sind die Kosten für das Gesundheitssystem, welches bei Erkrankungen in Folge der Emission von Feinstaub gerade bei alten Kraftwerken zusätzlich belastet wird.
