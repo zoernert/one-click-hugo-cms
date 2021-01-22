@@ -1,11 +1,10 @@
 ---
 title: Strompreisbremse mit Corrently
 date: 2019-08-07T07:39:15.513Z
-description: >-
-  Seit neunzehn Jahren wachsen die deutschen Strompreise jedes Jahr. Nur im Jahr
-  2015 hatte der Aufwärtstrend eine Verschnaufpause eingelegt und der Strompreis
-  sank von 29,14 Cent auf 28,7 Cent. Danach geht der Aufwärtstrend munter
-  weiter.
+description: Seit neunzehn Jahren wachsen die deutschen Strompreise jedes Jahr.
+  Nur im Jahr 2015 hatte der Aufwärtstrend eine Verschnaufpause eingelegt und
+  der Strompreis sank von 29,14 Cent auf 28,7 Cent. Danach geht der
+  Aufwärtstrend munter weiter.
 image: /img/light-bulb-3104355_1920.jpg
 ---
 **Strompreis bremsen**
@@ -20,7 +19,7 @@ Verbraucher, die viel Ökostrom verbrauchen, erhalten bei Corrently viele Bonusp
 
 **Digital ist Trumpf**
 
-Ökostromverbrauch wird belohnt und mit dem Lohn werden Verbraucher auch noch mit ihrer eigenen Erneuerbaren Energieanlage unabhängig. Möglich wird das alles mit Blockchain, IT und einem digitalen Stromzähler. Und weil es digital ist, weiß das Ökostromsystem Corrently auch postleitzahlengenau wo in der Umgebung eines Verbrauchers gerade wie viel Ökostrom ins Netz geliefert wird und das für 36 Stunden im Voraus. Damit wird Ökostromverbrauch für Alle planbar und der eigene Erneuerbare Energieerzeuger ebenfalls.
+Ökostromverbrauch wird belohnt und mit dem Lohn werden Verbraucher auch noch mit ihrer eigenen Erneuerbaren Energieanlage unabhängig. Möglich wird das alles mit Blockchain, IT und einem digitalen Stromzähler. Und weil es digital ist, weiß das Ökostromsystem Corrently auch postleitzahlengenau wo in der Umgebung eines Verbrauchers gerade wie viel Ökostrom ins Netz geliefert wird und das für 36 Stunden im Voraus. Damit wird Ökostromverbrauch für alle planbar und der eigene Erneuerbare Energieerzeuger ebenfalls.
 
 Wie sagt schon Thomas Alpha Edison: 
 
