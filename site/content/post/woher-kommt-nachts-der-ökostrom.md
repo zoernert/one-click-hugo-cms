@@ -1,18 +1,17 @@
 ---
-title: Woher kommt Nachts der Ökostrom?
+title: Woher kommt nachts der Ökostrom?
 date: 2020-05-20T11:38:09.045Z
-description: >-
-  In Deutschland haben wir extreme Überkapazitäten zur Stromerzeugung. Das ist
-  nicht schlimm, denn sie sorgen auch dafür, dass wir in der Nacht, wenn die
-  Sonne nicht scheint und der Wind nicht weht  verlässlich sauberen Ökostrom
-  bekommen.
+description: In Deutschland haben wir extreme Überkapazitäten zur
+  Stromerzeugung. Das ist nicht schlimm, denn sie sorgen auch dafür, dass wir in
+  der Nacht, wenn die Sonne nicht scheint und der Wind nicht weht, verlässlich
+  sauberen Ökostrom bekommen.
 image: /img/tree-736877_1280.jpg
 ---
 ## Wer hat das Problem?
 
-Zunächst ist es das **Problem der Stromanbieter**, wie sie in einem Ökostromtarif in der Nacht eine Erzeugung für ihre Kunden finden.  Dieser Aufgabe sind aktuell über 400 Anbieter in Deutschland gewachsen, von denen jeder eine etwas andere Strategie gewählt hat. 
+Zunächst ist es das **Problem der Stromanbieter**, wie sie in einem Ökostromtarif in der Nacht eine Erzeugung für ihre Kunden finden. Dieser Aufgabe sind aktuell über 400 Anbieter in Deutschland gewachsen, von denen jeder eine etwas andere Strategie gewählt hat. 
 
-Die andere Gruppe, die gerne über die Herausforderung _"Dunkelflaute"_  kommuniziert und Ängste schürt, sind die **Gegner der Energiewende** und nicht selten gekaufte Stimmungsmacher. 
+Die andere Gruppe, die gerne über die Herausforderung *"Dunkelflaute"*  kommuniziert und Ängste schürt, sind die **Gegner der Energiewende** und nicht selten gekaufte Stimmungsmacher. 
 
 Solltest Du kein Stromanbieter sein und auch kein Gegner der Energiewende, dann hast Du kein Problem und kannst mit ruhigem Gewissen [Ökostrom beziehen](https://www.corrently.de/tarifrechner.html).
 
@@ -26,11 +25,11 @@ Früher hatte man versucht in der Nacht den Verbrauch zu erhöhen, um am Tage we
 
 Aus unserer eigenen Erfahrung kann man allerdings feststellen, dass wir **noch nie das Problem** hatten, dass wir in den Nachtstunden keine freien Erzeugungskapazitäten finden konnten.
 
-## Tagsüber Grünstrom exportieren, Nachts Kohlestrom importieren, das nicht klimafreundlich sein?
+## Tagsüber Grünstrom exportieren, nachts Kohlestrom importieren, der nicht klimafreundlich sein?
 
 Deutschland liegt in der Mitte von Europa und damit auch in der Mitte des europäischen Stromnetzes. Es ist normal, dass Strom mit den Nachbarländern ausgetauscht wird und es ist richtig, dass Frankreich auf Atomstrom setzt und Polen gerne auf Kohlestrom. Österreich hingegen verzichtet auf Atom- und Kohlestrom, ist jedoch das Land, welches sehr viel Strom mit Deutschland austauscht und an dem man den Nutzen des Europäischen Verbundnetzes ([ENTSOe](https://entsoe.net/)) erklären kann. 
 
-Bereits im Beitrag [Dunkelflaute?!](https://corrently.blog/post/dunkelflaute/) wird der Pumpspeicher Kaprun genannt, dieser befindet sich in den Alpen und ist mit zwei Becken ein sehr großer Speicher für Strom. In den 1930er Jahren gebaut erreichte Kaprun seine Hochzeit mit dem Aufkommen der Kernenergie in Deutschland. Ein Problem, welches Kernkraftwerke besitzen, ist, dass sie am wirtschaftlichsten Arbeiten, wenn sie auf  konstanter Last gefahren werden. Nun wurde jedoch bereits früher in der Nacht weniger Strom benötigt als am Tage.
+Bereits im Beitrag [Dunkelflaute?!](https://corrently.blog/post/dunkelflaute/) wird der Pumpspeicher Kaprun genannt, dieser befindet sich in den Alpen und ist mit zwei Becken ein sehr großer Speicher für Strom. In den 1930er Jahren gebaut, erreichte Kaprun seine Hochzeit mit dem Aufkommen der Kernenergie in Deutschland. Ein Problem, welches Kernkraftwerke besitzen, ist, dass sie am wirtschaftlichsten arbeiten, wenn sie auf konstanter Last gefahren werden. Nun wurde jedoch bereits früher in der Nacht weniger Strom benötigt als am Tage.
 
 In den späten 1970er Jahren sind daher die Pumpspeicher in Deutschland, aber vor allem in Österreich, dazu genutzt worden, um in der Nacht das Wasser aus dem unteren Speicherbecken in das Obere zu pumpen und damit künstlichen (gesteuerten) Stromverbrauch zu schaffen. Am Tage, zur Zeit der Spitzenlast hatte man die Richtung umgekehrt und durch die Entleerung des oberen Beckens Strom erzeugt. Mittlerweile hat sich der Tag/Nacht-Zyklus umgedreht. Ist das Schlimm? Nein! 
 
@@ -38,7 +37,7 @@ Was wirtschaftlich in den Jahren 2010 bis 2015 schlecht für die Betreiber gewes
 
 ## Wie kann der Stromkunde für weniger Kohlestrom sorgen?
 
-Die Wahl von Ökostrom ist hier nur der erste Schritt, denn sollte tatsächlich unwahrscheinliche Fall auftreten, dass kein Ökostrom eingekauft werden kann, dann würden auch die Kunden mit Ökostrom mit Kohlestrom versorgt werden. 
+Die Wahl von Ökostrom ist hier nur der erste Schritt, denn sollte tatsächlich der unwahrscheinliche Fall auftreten, dass kein Ökostrom eingekauft werden kann, dann würden auch die Kunden mit Ökostrom mit Kohlestrom versorgt werden. 
 
 **In unter einer Minute kann man zum Klimaretter werden** und kostspielige Reserven verhindern, es genügt ein Blick auf den [GrünstromIndex](https://www.gruenstromindex.de/), der einem Auskunft gibt, wann in den kommenden 36 Stunden viel oder wenig Strom aus dem eigenen Umland kommt. 
 
@@ -50,7 +49,7 @@ Allein diese Antwort reicht, um etwas darauf zu achten, dass die Waschmaschine, 
 
 ## Was wollen die Stromanbieter?
 
-Natürlich kann an dieser Stelle nur von unseren eigenen Erfahrungen und Wünschen berichtet werden. Mit Corrently wollen wir, dass die Kunden mehr regionalen Ökostrom beziehen und die Wertschöpfung möglichst am Ort bleibt. Dabei ist es für uns egal, ob die Anlagen in unserem Besitz sind oder jemand anderen gehören, denn lokale vorhandener Strom bedeutet kurze Transportstrecken. 
+Natürlich kann an dieser Stelle nur von unseren eigenen Erfahrungen und Wünschen berichtet werden. Mit [Corrently](https://corrently.de/home.html) wollen wir, dass die Kunden mehr regionalen Ökostrom beziehen und die Wertschöpfung möglichst am Ort bleibt. Dabei ist es für uns egal, ob die Anlagen in unserem Besitz sind oder jemand anderen gehören, denn lokal vorhandener Strom bedeutet kurze Transportstrecken. 
 
 Desto kürzer die Strecke zwischen Erzeugung und Verbrauch ist, desto weniger Netzausbau wird benötigt, desto weniger Netzverluste müssen ausgeglichen werden und desto weniger Reserven müssen dezentral vorgehalten werden.
 
