@@ -1,8 +1,7 @@
 ---
-title: 'Gehacktes: IoT für die Energiewirtschaft'
+title: "Gehacktes: IoT für die Energiewirtschaft"
 date: 2018-11-11T00:52:23.266Z
-description: >-
-  Basierend auf die Blockchain Technologie kann man Geräte eindeutig
+description: Basierend auf die Blockchain Technologie kann man Geräte eindeutig
   identifizieren und dennoch vollständig skalieren. Vorstellung des Corrently
   IoT API-Endpoints.
 image: /img/minced-meat-1747910_640.jpg
@@ -10,7 +9,7 @@ image: /img/minced-meat-1747910_640.jpg
 API Endpunkt\
 `https://app.corrently.de/api/iot`
 
-Schreiben des Wertes _1337_ für ein neues Gerät:
+Schreiben des Wertes *1337* für ein neues Gerät:
 
 `https://app.corrently.de/api/iot?value=1337`
 
@@ -24,7 +23,7 @@ Aktualisieren des Wertes auf 1338:
 
 `https://app.corrently.de/api/iot?value=1338&account=0xF7454C82dFa3dde41c9b475a8704E931C3e0D59a&signature=0x637...`
 
-Als Signature wird die beim initialen setzen des Wertes gelieferte Signatur angegeben sowie der Account. Der Wert muss zwingend ein Zahlenwert sein.
+Als Signature wird die beim initialen Setzen des Wertes gelieferte Signatur angegeben sowie der Account. Der Wert muss zwingend ein Zahlenwert sein.
 
 Der Abruf eines Wertes erfolgt allein durch Angabe des Accounts:\
 `https://app.corrently.de/api/iot?account=0xF7454C82dFa3dde41c9b475a8704E931C3e0D59a`
