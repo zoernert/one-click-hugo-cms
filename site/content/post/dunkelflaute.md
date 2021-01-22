@@ -4,11 +4,7 @@ date: 2020-05-07T07:06:28.603Z
 description: >-
   Gibt's nicht mehr.
 
-  IDiese Woche konnte man im Beitrag von Dr.-Ing. Detlef Ahlborn (Vorsitzender
-  Vernunftkraft) bei Tichys Einblick viele schöne Zahlenspielchen erleben, wie
-  schlimm doch die Energiewelt in Deutschland ist. Natürlich ist sie das nicht
-  und die Erneuerbaren helfen gerade zu Zeiten von Corona, dass Deutschland
-  unabhängiger von den weltweiten Rohstoffmärkten ist.
+  Diese Woche konnte man im Beitrag von Dr.-Ing. Detlef Ahlborn (Vorsitzender Vernunftkraft) bei Tichys Einblick viele schöne Zahlenspielchen erleben, wie schlimm doch die Energiewelt in Deutschland ist. Natürlich ist sie das nicht und die Erneuerbaren helfen gerade zu Zeiten von Corona, dass Deutschland unabhängiger von den weltweiten Rohstoffmärkten ist.
 image: /img/xborderflow.png
 ---
 Es ist schon schön, dass man gerade aus einer „Vernunftkraft“ Meldung beim Blick auf die Daten den Beweis bekommt, dass zumindest der Begriff „Dunkelflaute“ endlich in die Geschichtsbücher gehört.
