@@ -1,21 +1,20 @@
 ---
-title: 'Smart Grid: Regulierung zerstört Energie Management'
+title: "Smart Grid: Regulierung zerstört Energie Management"
 date: 2020-09-08T23:25:43.798Z
-description: >-
-  Wer heute ein Energie Management sich aufbaut, der kann sich auf eine
-  eigentlich sehr sinnvolle Innovation freuen. Das Auto kann mit dem Strom vom
-  Dach geladen werden und die Wärmepumpe plant selbständig ihre Anschaltzeiten
-  nach der Verfügbarkeit von Solarstrom. Soweit so smart... Doch dann kam der
-  Netzbetreiber...
+description: Wer sich heute ein Energie-Management aufbaut, der kann sich auf
+  eine eigentlich sehr sinnvolle Innovation freuen. Das Auto kann mit dem Strom
+  vom Dach geladen werden und die Wärmepumpe plant selbständig ihre
+  Anschaltzeiten nach der Verfügbarkeit von Solarstrom. Soweit so smart... Doch
+  dann kam der Netzbetreiber...
 image: /img/confused-2681507_640.jpg
 ---
-Investiert man in ein cleveres Zuhause, bei dem möglichst viel Strom Vorort erzeugt und genutzt wird, dann investiert man mit Sicherheit nachhaltig. Doch spätestens bei der Anmeldung der neuen Technik beim Netzbetreiber wird es schwierig, denn der macht aller Cleverness zunächst einen Strich durch die Rechnung.
+Investiert man in ein cleveres Zuhause, bei dem möglichst viel Strom vor Ort erzeugt und genutzt wird, dann investiert man mit Sicherheit nachhaltig. Doch spätestens bei der Anmeldung der neuen Technik beim Netzbetreiber wird es schwierig, denn der macht aller Cleverness zunächst einen Strich durch die Rechnung.
 
-Strenggenommen braucht man 3 getrennte Netzanschlüsse:
+Strenggenommen braucht man drei getrennte Netzanschlüsse:
 
-* Haushaltsstrom
+* [Haushaltsstrom](https://corrently.de/oekostrom/privat.html)
 * Wallbox/E-Mobilität/[Autostrom](https://www.corrently.de/transparenz/autostrom/)
-* Wärmepumpe/Wärmestrom
+* Wärmepumpe/[Wärmestrom](https://corrently.de/oekostrom/waerme.html)
 
 Jeder Anschluss benötigt seinen eigenen Zähler und kann somit auch von einem anderen Anbieter mit Strom beliefert werden, dass schafft eine Freiheit, die aber jede Idee hinter einem Energie-Management kaputt macht. 
 
@@ -31,4 +30,4 @@ Wahrscheinlich ist der Anteil derer, die ein Energie-Management betreiben in uns
 
 ![](/img/strompreis.png)
 
-_Die Tabelle zeigt die durchschnittlichen Strompreise innerhalb der_ [_Casa Corrently_](https://www.stromdao.de/casa) _Nutzergruppe. Es werden nur Datensätze zur Berechnung verwendet, die vollständig sind und überprüfbar. Aktuell stammen die Daten von 27 Haushalten an unterschiedlichsten Orten in Deutschland mit unterschiedlichsten Installationen und Nutzungsverhalten._
+*Die Tabelle zeigt die durchschnittlichen Strompreise innerhalb der* *[Casa Corrently](https://www.stromdao.de/casa)* *Nutzergruppe. Es werden nur Datensätze zur Berechnung verwendet, die vollständig sind und überprüfbar. Aktuell stammen die Daten von 27 Haushalten an unterschiedlichsten Orten in Deutschland mit unterschiedlichsten Installationen und Nutzungsverhalten.*
