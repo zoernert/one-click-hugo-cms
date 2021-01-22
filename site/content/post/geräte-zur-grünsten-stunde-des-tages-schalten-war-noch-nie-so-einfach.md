@@ -5,7 +5,7 @@ description: Natürlich kann man den GrünstromIndex nutzen und selbst mit einig
   Programmzeilen den Code basteln, damit die helfenden Hausgeräte via SmartHome
   zur günstigsten Stunde des Tages betrieben werden. Die Praxis hat allerdings
   gezeigt, dass es noch einfacher gehen muss. Aus den Rückmeldungen unserer API
-  Nutzern haben wir daher eine Schnittstelle geschaffen, die extrem einfach
+  Nutzer haben wir daher eine Schnittstelle geschaffen, die extrem einfach
   gestrickt ist und daher in jeder modernen Heimsteuerung verwendet werden kann.
 image: img/hourglass-1938677_640.jpg
 ---
