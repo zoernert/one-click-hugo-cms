@@ -21,16 +21,28 @@
       <td>{{ .ReadingTime }} Minuten</td>
     </tr>
   </table>
-  <a href="/post/" class="btn btn-sm btn-dark">zurück zur Übersicht</a>
-  <div class='onesignal-customlink-container'></div>
-  </div>
-
+    <div class="row">
+      <div class="col">
+          <a href="/post/" class="btn btn-sm btn-dark">zurück zur Übersicht</a>
+      </div>
+      <div class="col">
+        <div class='onesignal-customlink-container'></div>
+      </div>
+    </div>
+   </div>
   </div>
 </div>
 <div class="container aos-init aos-animate" data-aos="fade" style="background: #ffffff;font-family: Assistant, sans-serif;">
       {{ .Content }}
 
-      <div class='onesignal-customlink-container'></div>
+      <div class="row">
+        <div class="col">
+            <a href="/post/" class="btn btn-sm btn-dark">zurück zur Übersicht</a>
+        </div>
+        <div class="col">
+          <div class='onesignal-customlink-container'></div>
+        </div>
+      </div>
 </div>
 <div class="container aos-init aos-animate" data-aos="fade" style="background: #ffffff;">
 <div id="disqus_thread"></div>
