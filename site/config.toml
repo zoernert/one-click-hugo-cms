@@ -2,11 +2,16 @@ baseurl = "https://corrently.de"
 languageCode = "de-de"
 languageLang = "de"
 title = "Corrently Blog"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["taxonomy", "taxonomyTerm"]
+rssLimit = 15
+
+[author]
+    name = "STROMDAO GmbH"
 
 [markup.goldmark.renderer]
 unsafe= true
