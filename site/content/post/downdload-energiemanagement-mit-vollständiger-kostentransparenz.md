@@ -1,5 +1,5 @@
 ---
-title: "Downdload: Energiemanagement mit vollständiger Kostentransparenz"
+title: "Download: Energiemanagement mit vollständiger Kostentransparenz"
 date: 2021-01-29T09:41:07.144Z
 description: Für STROMDAO und opernikus bedeutet deren Kooperation, dass für den
   Endkunden „alles aus einer Hand“ ist, nämlich ein komplexes Produkt einfach
