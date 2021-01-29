@@ -15,3 +15,26 @@ rssLimit = 15
 
 [markup.goldmark.renderer]
 unsafe= true
+
+
+
+[params]
+  description = "Corrently - Regionaler Ökostrom"
+
+  [params.publisher]
+    name = "STROMDAO GmbH"
+
+    [params.publisher.logo]
+      url = "/assets/img/Corrently_31x32.png"
+      width = 31
+      height = 32
+
+  [params.logo]
+    url = "/assets/img/Corrently_31x32.png"
+    width = 31
+    height = 32
+
+  [params.image]
+    url = "/img/Logos/Corrently/Favicon_Corrently_1000.png"
+    width = 1000
+    height = 252
