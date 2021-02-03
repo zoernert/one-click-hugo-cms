@@ -8,8 +8,6 @@ description: Ab dem 12.02.2021 um 14:00 Uhr läd die OpenEMS alle 14 Tage zu
   Association. Den Auftakt macht ein Impuls zum Thema Förderprogramme.
 image: img/online-5059831_1280.jpg
 ---
-
-
 * **Kostenlose** Teilnahme auch als nicht Mitglied
 * Vom Impulsvortrag kann es eine **Aufzeichnung** geben
 * Geplante Dauer **45 Minuten**
@@ -19,7 +17,7 @@ Die Veranstaltung findet auf AirMeet statt und wird operativ vom OpenEMS Mitglie
 
 Im Konferenzraum steht eine virtuelle Bühne für den Impuls, sowie mehrere Gruppentische zum Networking zur Verfügung.
 
-### Themen (Link für zur Registrierung)
+### Themen (Link zur Registrierung)
 
 12.02.2021 [Aktuelle Übersicht Förderprojekte](https://www.airmeet.com/e/4203d010-6613-11eb-b018-89afae04ce4f)\
 Impuls von Peter Eckerle
