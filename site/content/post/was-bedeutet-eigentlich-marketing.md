@@ -26,7 +26,7 @@ Gleichzeitig verwundern mich zwei Ereignisse:
 
 1. Die folgende Grafik (abgerufen am 11.2.2021, 17:35,58)
 
-   ![](img/screenshot-2021-02-11-at-18.15.27.png "Dynamischer Profit" class="img-fluid")
+   ![Dynamischer Profit](img/screenshot-2021-02-11-at-18.15.27.png "Dynamischer Profit")
 
 Sollte die untere Kurve nicht kongruent zur oberen sein? Je mehr Ökostrom an der Börse vorhanden ist, desto geringer ist der Preis? 
 
@@ -36,7 +36,7 @@ Und darauf basiert die Marketingstrategie? 
 
 Für mich fragwürdig. Denn dazu kommen immer Steuern, Konzessionsabgaben etc. Wenn wir nur die Energiebezugskosten nehmen würden, die wir mit dem GrünstromIndex ebenfalls ausweisen, dann ist das bei uns heute und morgen mal eben zu jeder Stunde der örtliche Energiepreis niedrig. Ist ja ein Ding.
 
-![](img/screenshot-2021-02-11-at-18.18.58.png "GrünstromIndex am Standort Mannheim" class="img-fluid")
+![GrünstromIndex am Standort Mannheim](img/screenshot-2021-02-11-at-18.18.58.png "GrünstromIndex am Standort Mannheim")
 
 Warum das? Die Kombination kaltes Wetter + Sonne bedeutet niedrige Netzleitungsverluste und somit eine hohe PV-Erzeugung. Nur, dass wir das nicht so herausposaunen, da der Preis nicht so negativ ist, dass wir unseren Kunden den Strom schenken.
 
