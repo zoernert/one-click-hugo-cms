@@ -59,5 +59,10 @@
     {{ with $script.js }}
       <script src="{{ relURL . }}"></script>
     {{ end }}
+    <script>
+      $(document).ready(function() {
+        $('img').addClass('img-fluid');
+      })
+    </script>
   </body>
 </html>
