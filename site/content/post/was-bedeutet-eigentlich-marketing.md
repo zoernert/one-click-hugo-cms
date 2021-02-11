@@ -16,7 +16,7 @@ Wir sagen, der Arbeitspreis ist dann günstiger, wenn viel regionaler Ökostrom 
 
 1. dann ist die Strecke zwischen Erzeugung und Verbrauch nicht so weit (aka Kurzstreckentickets bei der S-Bahn)
 2. dann entstehen weniger CO2-Emissionen beim Stromverbrauch aufgrund von Netzverlusten
-3. dann müssen weniger Erneuerbare Energieanlagen abgeschaltet werden, da die Netzfrequenz lokal stabil gehalten werden kann, wenn Erzeugung und Abnahme sich ausgleichen
+3. dann müssen weniger Erneuerbare Energieanlagen abgeschaltet werden, da die Netzfrequenz stabil gehalten werden kann, wenn Erzeugung und Abnahme sich ausgleichen
 
 Bei einem anderen Wettbewerber, der sich am Börsenstrompreis orientiert, wird ebenfalls die Aussage getroffen, dass 
 
@@ -30,7 +30,7 @@ Gleichzeitig verwundern mich zwei Ereignisse:
 
 Sollte die untere Kurve nicht kongruent zur oberen sein? Je mehr Ökostrom an der Börse vorhanden ist, desto geringer ist der Preis? 
 
-2. Das Marketing, dass die Preise negativ werden können. Beim Abrufen und Auswerten der "Aktuellen Highlights" ergab sich, dass seit dem 1.6.2020 (nun knapp 9 Monate)an 56 Stunden von knapp 6480 Stunden der Börsenpreis negativ war. Das sind "Highlights" von knapp 0,86%.
+2. Das Marketing, das die Preise negativ werden können. Beim Abrufen und Auswerten der "Aktuellen Highlights" ergab sich, dass seit dem 1.6.2020 (nun knapp 9 Monate)an 56 Stunden von knapp 6480 Stunden der Börsenpreis negativ war. Das sind "Highlights" von knapp 0,86%.
 
 Und darauf basiert die Marketingstrategie? 
 
