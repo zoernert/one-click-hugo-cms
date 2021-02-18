@@ -1,6 +1,6 @@
 ---
 title: "Geschafft: Bitcoin Mining mit 100% Solarstrom bei 180 GHs (On-Grid)"
-date: 2021-02-18T09:33:31.848Z
+date: 2016-02-18T09:33:00.000Z
 description: Zunächst soll noch einmal erwähnt werden, dass das sogenannte
   Mining nach Bitcoins beim aktuellen Strompreis von über 25 Cent nicht rentabel
   ist. Auch darunter stellt sich die Frage, ob der Aufwand für die Hardware
