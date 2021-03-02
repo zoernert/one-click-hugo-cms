@@ -7,8 +7,12 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["taxonomy", "taxonomyTerm"]
+# disableKinds = ["taxonomy", "taxonomyTerm"]
 rssLimit = 15
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
 
 [author]
     name = "STROMDAO GmbH"
