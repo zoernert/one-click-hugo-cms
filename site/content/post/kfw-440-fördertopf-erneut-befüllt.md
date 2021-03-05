@@ -1,8 +1,8 @@
 ---
-title: KfW 440 Fördertopf erneut befüllt
+title: KfW 440 Fördertopf erneut aufgestockt
 date: 2021-03-02T10:44:25.079Z
 description: BMVI stockt erneut den Fördertopf für private Ladeinfrastruktur auf
-image: img/ladesaeule-elektroautos.jpg
+image: img/ladesaeule-elektroautos-quelle_bmvi.jpg
 ---
 Quelle: BVMI
 
