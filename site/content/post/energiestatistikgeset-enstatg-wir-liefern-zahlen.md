@@ -1,5 +1,5 @@
 ---
-title: Energiestatistikgeset (EnStatG) - Wir liefern Zahlen
+title: Energiestatistikgesetz (EnStatG) - Wir liefern Zahlen
 date: 2021-04-01T23:12:21.362Z
 description: Bis vor wenigen Stunden wusste ich noch nicht einmal, dass dieses
   Gesetz überhaupt existiert.  Dank eines Schreibens des Statistischen
