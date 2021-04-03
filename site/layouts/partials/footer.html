@@ -167,3 +167,16 @@
 <script src="/assets/js/Faq-by-pomdre.js"></script>
 <script src="/assets/js/leadform.js"></script>
 <script src="/assets/js/Chart.bundle.min.js"></script>
+<script id="zammad_form_script" src="https://premium.corrently.de/assets/form/form.js"></script>
+<script>
+$(function() {
+  $('#feedback-form').ZammadForm({
+    messageTitle: 'Dein Feedback',
+    messageSubmit: 'ab die Post',
+    messageThankYou: 'Vielen Dank für Deine Anfrage (#%s). Wir melden uns umgehend!',
+    showTitle: true,
+    modal: true,
+    attachmentSupport: true
+  });
+});
+</script>
