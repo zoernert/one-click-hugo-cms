@@ -12,18 +12,20 @@ image: img/easee-wallbox-wand-hand-quelle-easee-.jpg
 
 Wer kennt es nicht? Man hat sich etwas teures gekauft und dann steht es 95% der Zeit ungenützt in der Ecke. 
 
-Bei Wallboxen ist es nichts anderes, aber wir wollen euch eine Lösung bieten, bei der Ihr eure Wallbox auch anderen zugänglich machen könnt. 
+Bei Wallboxen ist es nichts anderes. Wir wollen euch eine Lösung bieten, bei der Ihr eure Wallbox auch anderen zugänglich macht und dabei eure Investiotion wieder reinholen könnt.
 
-Worum geht es?
+Worum geht´s?
 
-Wir wollen es möglich machen, dass Ihr euren Stellplatz für ein kleinen Obolus an euren Nachbarn vermieten könnt und er damit die Möglichkeit bekommt, sein E-Auto bei euch ein bisschen mit Strom zu füttern. Natürlich springt dabei auch etwas für euch raus.
+Wir wollen es möglich machen, dass Ihr euren Stellplatz für ein kleinen Obolus an euren Nachbarn vermietet und er damit die Möglichkeit bekommt, sein E-Auto bei euch ein bisschen mit Strom zu füttern. So haben Alle was davon.
 
-Wir ermöglichen es euch eure Wallbox sekundengenau einzuschalten und den Ladestrom entsprechend so zu regeln, dass sie mit dem Ende des Parkvorgangs wieder abgeschaltet wird. So könnt ihr euch ohne viel Aufwand ein paar Euro verdienen und andere an der grünen Wende teilhaben lassen!
+Wir ermöglichen es euch eure Wallbox sekundengenau einzuschalten und den Ladung entsprechend so zu regeln, dass sie mit dem Ende des Parkvorgangs wieder endet.
 
-Mit unserem Autostrom Tarif geht das für euch auch noch besonders günstig;) 
+ So könnt ihr euch ohne viel Aufwand ein paar Euro verdienen und andere an der grünen Wende teilhaben lassen!
 
-Auf unserer Seite könnt ihr euch den Tarif für euer Zuhause direkt anzeigen lassen.
+Mit unserem Autostrom Tarif geht das für euch auch noch besonders günstig ;) 
 
 <https://www.corrently.de/oekostrom/auto.html>
 
-Über eure Meinung zu unserer Idee würden wir uns sehr freuen.
+Auf unserer Seite könnt ihr euch den Tarif für euer Zuhause direkt anzeigen lassen.
+
+Über eure Meinung zu unserer Idee würden wir uns sehr freuen!
