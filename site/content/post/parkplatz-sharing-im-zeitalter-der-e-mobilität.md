@@ -1,6 +1,6 @@
 ---
 title: Parkplatz-Sharing im Zeitalter der E-Mobilität
-date: 2021-04-29T17:35:44.858Z
+date: 2021-04-29T18:40:01.846Z
 description: Es gibt immer mehr E-Autos aber die Lade- und Parkinfrastruktur
   hinkt hinterher. Es gibt viele Ideen aber nur wenige gute Lösungen.
 image: img/blockierte-ladestation.jpg
