@@ -1,7 +1,7 @@
 ---
 title: Deine teure Wallbox hängt einsam daheim? Dann teile sie doch mit deinem
   Nachbarn!
-date: 2021-04-29T18:00:00.000Z
+date: 2021-04-29T18:40:16.862Z
 description: Teure Wallbox gekauft und sie hängt ungenutzt in der Garage, wenn
   Du nicht lädst? Vermieter will Dir keine Wallbox erlauben, aber Nachbar hat
   eine? Dann teile deinen Stellplatz mit anderen E-Autos und hilf damit deinem
